@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5N6IaH6BPpoYHUVBfaxa8w" name="verification_results,_UBEQEGToEd-c05WD_Ii7zw" guid="-5N6IaH6BPpoYHUVBfaxa8w" changeDate="2010-09-24T11:16:57.000+0200">
+  <mainDescription>&lt;P class=MsoNormal style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>It may include the record of: &lt;/SPAN>&lt;/P>
+&lt;UL>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Participants&lt;/SPAN>&lt;/DIV>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Date &lt;/SPAN>&lt;/DIV>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Place &lt;/SPAN>&lt;/DIV>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Duration&lt;/SPAN>&lt;/DIV>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Verification check-list&lt;/SPAN>&lt;/DIV>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Passed items of verification&lt;/SPAN>&lt;/DIV>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Failed items of verification&lt;/SPAN>&lt;/DIV>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Pending items of verification&lt;/SPAN>&lt;/DIV>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Defects identified during verification&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/DIV>&lt;/LI>&lt;/UL></mainDescription>
+  <purpose>&lt;span lang=&quot;EN-GB&quot;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+Documents the verification execution.&lt;/span></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

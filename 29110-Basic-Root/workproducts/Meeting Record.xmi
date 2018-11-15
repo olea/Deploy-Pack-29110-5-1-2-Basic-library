@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--itNbU7rXd47lUeiFPaKnA" name="Meeting Record,_eHk9AMgEEd-uaoHezqavZA" guid="--itNbU7rXd47lUeiFPaKnA" authors="Gloria Hernandez" changeDate="2010-09-24T06:52:42.000+0200" version="V.01">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+align=&quot;left&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>It may have the following
+    characteristics:&lt;/span>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Purpose of meeting&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Attendees&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Date, place held&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Reference to previous
+            minutes&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>What was accomplished&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Identifies issues
+            raised&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Any open issues&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Agreements&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Next meeting, if any.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></mainDescription>
+  <keyConsiderations>&lt;p>
+    The applicable status is: updated
+&lt;/p></keyConsiderations>
+  <purpose>&lt;p>
+    Records the agreements established with Customer and/or Work Team.
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

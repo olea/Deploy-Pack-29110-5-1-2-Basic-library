@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pQtYHVtnya5u1kIrW40wdQ" name="Project Repository,_gSJ-MMgEEd-uaoHezqavZA" guid="-pQtYHVtnya5u1kIrW40wdQ" authors="Gloria Hernandez" changeDate="2010-09-24T06:52:42.000+0200" version="V.01">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>It may have the following
+    characteristics:&lt;/span>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Stores project work
+            products&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Stores&lt;span
+            style=&quot;mso-spacerun: yes&quot;>&amp;nbsp;&lt;/span> released deliverables products&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Storage and retrieval
+            capabilities&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Ability to browse
+            content&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Listing of contents with
+            description of attributes&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Sharing and transfer of work
+            products between affected groups&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Effective controls over
+            access&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Maintain work products
+            descriptions&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Recovery of archive versions
+            of work products&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Ability to report work
+            products status&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Changes to work products are
+            tracked to &lt;i style=&quot;mso-bidi-font-style: normal&quot;>Change Requests&lt;/i>&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>
+            &amp;nbsp;
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></mainDescription>
+  <keyConsiderations>&lt;p>
+    &lt;span lang=&quot;EN-GB&quot;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+    The applicable statuses are: &lt;i>&lt;/i>&lt;span style=&quot;mso-bidi-font-style: italic&quot;>recovered and
+    updated.&lt;/span>&lt;/span>&lt;br />
+&lt;/p></keyConsiderations>
+  <purpose>&lt;span lang=&quot;EN-GB&quot;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+Electronic container to store project work products and deliveries.&lt;/span></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

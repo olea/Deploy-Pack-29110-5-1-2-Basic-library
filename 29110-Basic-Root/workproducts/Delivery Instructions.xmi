@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2JItTYG77mpE_fOHgZGloA" name="new_artifact,_uwihIMwnEd-Va56hoidFMA" guid="-2JItTYG77mpE_fOHgZGloA" authors="Gloria Hernandez" changeDate="2010-09-30T02:18:56.000+0200" version="V.01">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot;
+style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>It may have the following
+    characteristics:&lt;/span>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Elements required for product
+            release identified (i.e., hardware, software, documentation etc.)&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Delivery requirements&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Sequential ordering of tasks
+            to be performed&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Applicable releases
+            identified&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Identifies all delivered
+            software components with version information&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Identifies any necessary
+            backup and recovery procedures&lt;/span>
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

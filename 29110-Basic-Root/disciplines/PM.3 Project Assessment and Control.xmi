@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GzjoC9Vf5Rm0kDoHIGS2ig" name="PM.3 Project Assessment and Control,_IlOCEMf0Ed-uaoHezqavZA" guid="-GzjoC9Vf5Rm0kDoHIGS2ig" authors="Gloria Hernandez" changeDate="2010-09-24T06:07:59.000+0200">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>The activity provides:&lt;/span>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Evaluation of actual plan performance and progress against
+            targets.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Identified and evaluated significant cost, schedule and
+            technical performance deviations and problems.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Review of project risks and identification of new
+            risks.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Documented change requests, appropriate corrective action
+            defined, and changes tracked to closure.&lt;/span>&lt;br />
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

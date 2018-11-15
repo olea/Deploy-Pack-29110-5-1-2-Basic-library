@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DT7-8qUCfElRpglgzu1hwQ" name="new_term_definition,_TkBVkJkbEd-a3JTyt2HX_w" guid="-DT7-8qUCfElRpglgzu1hwQ" changeDate="2010-07-27T03:08:03.000+0200">
+  <mainDescription>Common solutions to common problems that can be used during development to minimize complexity. They represent key
+technical concepts that will be standardized across the solution. [&lt;a class=&quot;elementLinkWithUserText&quot;
+href=&quot;./../../../29110_Basic/guidances/supportingmaterials/references_81FBB521.html&quot;
+guid=&quot;_CsldwKWlEd-KHK2XNr05lQ&quot;>OpenUP&lt;/a>]&lt;br />
+&lt;br />
+&lt;u>NOTE&lt;/u>: architectural mechanisms are sometimes called &quot;architectural tactics&quot; or &quot;heuristics&quot;</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

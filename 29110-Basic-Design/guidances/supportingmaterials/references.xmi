@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GS3rtrveF8HfmJ6ep240Ag" name="new_supporting_material,_tP_osJkUEd-a3JTyt2HX_w" guid="-GS3rtrveF8HfmJ6ep240Ag" changeDate="2010-07-27T02:21:45.000+0200">
+  <mainDescription>&lt;h3>
+    References for the Design Deployment Package
+&lt;/h3>
+&lt;table title=&quot;&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;10&quot; width=&quot;100%&quot;>
+    &lt;tbody>
+        &lt;tr valign=&quot;top&quot;>
+            &lt;td>
+                &lt;strong>CLEMENTS&amp;nbsp;03&lt;/strong> 
+            &lt;/td>
+            &lt;td>
+                P. Clements, F. Bachmann, L. Bass, D. Garlan, J. Ivers, R. Little, R. Nord, J. Stafford, &quot;Documenting
+                Software Architectures - Views and Beyond&quot;, Addison Wesley, 512 pages, 2003, ISBN 0-201-70372-6.
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                &lt;strong>IEEE&amp;nbsp;1016&lt;/strong> 
+            &lt;/td>
+            &lt;td>
+                IEEE Std 1016-2009, Recommended Practice for Software Design Description.
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                &lt;strong>IEEE&amp;nbsp;1471&lt;/strong> 
+            &lt;/td>
+            &lt;td>
+                IEEE Std 1471-2000, Recommended Practice for Architectural Description of Software-Intensive Systems.
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                &lt;strong>ISO/IEC&amp;nbsp;12207&lt;/strong> 
+            &lt;/td>
+            &lt;td>
+                ISO/IEC 12207:2008 Systems and software engineering - Software life cycle processes.
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                &lt;strong>ISO/IEC&amp;nbsp;24765&lt;/strong> 
+            &lt;/td>
+            &lt;td>
+                ISO/IEC 24765, Systems and Software Engineering Vocabulary.
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr valign=&quot;top&quot;>
+            &lt;td>
+                &lt;strong>ISO/IEC&amp;nbsp;29110&lt;/strong> 
+            &lt;/td>
+            &lt;td>
+                ISO/IEC 29110:2010, Software Engineering — Lifecycle Profiles for Very Small Entities (VSEs) — Part 5-1-2:
+                Management and Engineering Guide - Basic VSE Profile.
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr>
+            &lt;td>
+                &lt;strong>OpenUP&lt;/strong> 
+            &lt;/td>
+            &lt;td>
+                Open Unified Process (OpenUP), available online at &lt;a href=&quot;http://epf.eclipse.org/wikis/openup/&quot;
+                target=&quot;_blank&quot;>http://epf.eclipse.org/wikis/openup/&lt;/a>, consulted 2010-Jul-26.
+            &lt;/td>
+        &lt;/tr>
+        &lt;tr valign=&quot;top&quot;>
+            &lt;td>
+                &lt;strong>SEI&amp;nbsp;VIEWS&lt;/strong> 
+            &lt;/td>
+            &lt;td>
+                Architecture Documentation, Views and Beyond Approach, available at &lt;a
+                href=&quot;http://www.sei.cmu.edu/architecture/tools/viewsandbeyond/index.cfm&quot;
+                target=&quot;_blank&quot;>http://www.sei.cmu.edu/architecture/tools/viewsandbeyond/index.cfm&lt;/a>, consulted
+                2010-Jul-26.
+            &lt;/td>
+        &lt;/tr>
+    &lt;/tbody>
+&lt;/table></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

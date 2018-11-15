@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_A5mMAOjWEeiFlvfecf-t4w" guid="_A5mMAOjWEeiFlvfecf-t4w">
+    <resourceDescriptors xmi:id="_A_LPkOjWEeiFlvfecf-t4w" id="-OjQYVBhqYq6ZCwIPfySLAw" uri="domains/Design.xmi"/>
+    <resourceDescriptors xmi:id="_A_OS4OjWEeiFlvfecf-t4w" id="-JMWWqkN_U12gu-GsaF9sjg" uri="disciplines/Project%20Management.xmi"/>
+    <resourceDescriptors xmi:id="_A_RWMOjWEeiFlvfecf-t4w" id="-XRQJRZOwyLVKgMPpN3FJ1A" uri="disciplines/PM.1%20Project%20planning.xmi"/>
+    <resourceDescriptors xmi:id="_A_SkUOjWEeiFlvfecf-t4w" id="-XSv-ZG4IBedbRg6jfEfHHg" uri="disciplines/PM.2%20Project%20Plan%20Execution.xmi"/>
+    <resourceDescriptors xmi:id="_A_UZgOjWEeiFlvfecf-t4w" id="-GzjoC9Vf5Rm0kDoHIGS2ig" uri="disciplines/PM.3%20Project%20Assessment%20and%20Control.xmi"/>
+    <resourceDescriptors xmi:id="_A_VAkOjWEeiFlvfecf-t4w" id="-7Gsub7ZiILxO8FhiheVKkw" uri="disciplines/PM.4%20Project%20Closure.xmi"/>
+    <resourceDescriptors xmi:id="_A_WOsOjWEeiFlvfecf-t4w" id="-AlLcGH2i3ql6wBLP4APE8g" uri="disciplines/Implementation.xmi"/>
+    <resourceDescriptors xmi:id="_A_ZSAOjWEeiFlvfecf-t4w" id="-gHDaH81FF5IPE8pi6-ltJw" uri="disciplines/GP.2.xmi"/>
+    <resourceDescriptors xmi:id="_A_bHMOjWEeiFlvfecf-t4w" id="-OSRh8-anET3uTA-riPcsnQ" uri="disciplines/PG.1.xmi"/>
+    <resourceDescriptors xmi:id="_A_c8YOjWEeiFlvfecf-t4w" id="-7iKvG9SKSzaf94YvgKNIew" uri="roles/designer.xmi"/>
+    <resourceDescriptors xmi:id="_A_eKgOjWEeiFlvfecf-t4w" id="-nBaDBKUuWaDu-oPfN9jgtQ" uri="workproducts/software_design.xmi"/>
+    <resourceDescriptors xmi:id="_A_f_sOjWEeiFlvfecf-t4w" id="-WW1ZGmbf37ka-2bUUCX5sA" uri="tasks/document_software_design.xmi"/>
+    <resourceDescriptors xmi:id="_A_h04OjWEeiFlvfecf-t4w" id="-fekZ9Yxaum40OCygutflBw" uri="roles/analyst.xmi"/>
+    <resourceDescriptors xmi:id="_A_jqEOjWEeiFlvfecf-t4w" id="-a2h56GYjuWSZzXNg5WKvQQ" uri="roles/technical_lead.xmi"/>
+    <resourceDescriptors xmi:id="_A_k4MOjWEeiFlvfecf-t4w" id="-dvNgx-gteX8Ww0bwgzMDUg" uri="tasks/assign_tasks.xmi"/>
+    <resourceDescriptors xmi:id="_A_mGUOjWEeiFlvfecf-t4w" id="-_qzo0skMQYNUyddUl30fcg" uri="workproducts/project_plan.xmi"/>
+    <resourceDescriptors xmi:id="_A_oikOjWEeiFlvfecf-t4w" id="-2JItTYG77mpE_fOHgZGloA" uri="workproducts/Delivery%20Instructions.xmi"/>
+    <resourceDescriptors xmi:id="_A_pwsOjWEeiFlvfecf-t4w" id="-PM9ZckjvvHXY2Ttnt4c9LQ" uri="workproducts/Tasks.xmi"/>
+    <resourceDescriptors xmi:id="_A_s0AOjWEeiFlvfecf-t4w" id="-nMl4nVasgg--bwFlBUyZ8Q" uri="workproducts/Estimated%20Duration.xmi"/>
+    <resourceDescriptors xmi:id="_A_upMOjWEeiFlvfecf-t4w" id="-nYmNJa3orP91PIspE-nYpA" uri="workproducts/Resources.xmi"/>
+    <resourceDescriptors xmi:id="_A_v3UOjWEeiFlvfecf-t4w" id="-45opO2Qm79lTwHdjoyQIMA" uri="workproducts/Composition%20of%20Work%20Team.xmi"/>
+    <resourceDescriptors xmi:id="_A_xFcOjWEeiFlvfecf-t4w" id="-Z8aKXQhNXetIuA_ERjSnyQ" uri="workproducts/Schedule%20of%20the%20Project%20Tasks.xmi"/>
+    <resourceDescriptors xmi:id="_A_y6oOjWEeiFlvfecf-t4w" id="-Z8OYqZczOCwLhANtYO-1hw" uri="workproducts/Identification%20of%20Project%20Risks.xmi"/>
+    <resourceDescriptors xmi:id="_A_zhsOjWEeiFlvfecf-t4w" id="-VLXFcAJ2ma3JSFhFD8CDLQ" uri="workproducts/Version%20Control%20Strategy.xmi"/>
+    <resourceDescriptors xmi:id="_A_0v0OjWEeiFlvfecf-t4w" id="-ek3Gx2KyzibKTJP9KhnKpw" uri="tasks/understand_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_A_2lAOjWEeiFlvfecf-t4w" id="-688oC4epuYUXSLpoYM9Jow" uri="tasks/validate_design.xmi"/>
+    <resourceDescriptors xmi:id="_A_3MEOjWEeiFlvfecf-t4w" id="-5N6IaH6BPpoYHUVBfaxa8w" uri="workproducts/verification_results.xmi"/>
+    <resourceDescriptors xmi:id="_A_5BQOjWEeiFlvfecf-t4w" id="-0Q6i-bqMCVnoExIvkDvDWQ" uri="workproducts/change_request.xmi"/>
+    <resourceDescriptors xmi:id="_A_6PYOjWEeiFlvfecf-t4w" id="-y1PpIOP5G7-sbSgHVxEY3w" uri="tasks/tests.xmi"/>
+    <resourceDescriptors xmi:id="_A_7dgOjWEeiFlvfecf-t4w" id="-26urW2dyAnTvqdIk9qtbgQ" uri="tasks/validate_tests.xmi"/>
+    <resourceDescriptors xmi:id="_A_8EkOjWEeiFlvfecf-t4w" id="-xlkp84i7NVaSc7ghYEFzfQ" uri="tasks/update_traceability_record.xmi"/>
+    <resourceDescriptors xmi:id="_A_95wOjWEeiFlvfecf-t4w" id="-dQ5VNX_ushvNpUGZXQ-ygA" uri="tasks/update_software_configuration.xmi"/>
+    <resourceDescriptors xmi:id="_BACyQOjWEeiFlvfecf-t4w" id="-_vpTQPhzM8eeGfIxn1KKfw" uri="guidances/supportingmaterials/welcome.xmi"/>
+    <resourceDescriptors xmi:id="_BAEncOjWEeiFlvfecf-t4w" id="-0xZbw2hmPTOTZwBujyQVHg" uri="guidances/supportingmaterials/references.xmi"/>
+    <resourceDescriptors xmi:id="_BAF1kOjWEeiFlvfecf-t4w" id="-bwo3z-ArU6Thtdm4gLP3hQ" uri="tasks/PM.1.1%20Review%20the%20Statement%20of%20Work.xmi"/>
+    <resourceDescriptors xmi:id="_BAHqwOjWEeiFlvfecf-t4w" id="-Hqw939B43t9o-Ns9eDHm6w" uri="roles/Project%20Manager.xmi"/>
+    <resourceDescriptors xmi:id="_BAI44OjWEeiFlvfecf-t4w" id="-w1u5BDt07qqG5V2LIorqeg" uri="workproducts/Statement%20of%20Work.xmi"/>
+    <resourceDescriptors xmi:id="_BANKUOjWEeiFlvfecf-t4w" id="-aGmQtYiSsaluXW2QQXR16Q" uri="tasks/PM.1.2%20Define%20with%20the%20Customer%20the%20Delivery%20Instructions.xmi"/>
+    <resourceDescriptors xmi:id="_BASC0OjWEeiFlvfecf-t4w" id="-DLwPNsE3KPd0t5VSnUI4uw" uri="roles/Customer.xmi"/>
+    <resourceDescriptors xmi:id="_BATQ8OjWEeiFlvfecf-t4w" id="-guFKYBcbq2epPE--7YuB2A" uri="tasks/PM.1.3%20Identify%20the%20specific%20tasks%20to%20be%20performed.xmi"/>
+    <resourceDescriptors xmi:id="_BAVGIOjWEeiFlvfecf-t4w" id="-neAu80Db5V41NJvbXA6K8Q" uri="tasks/PM.1.4%20Establish%20the%20Estimated%20Duration%20to%20perform%20each%20task.xmi"/>
+    <resourceDescriptors xmi:id="_BAWUQOjWEeiFlvfecf-t4w" id="-SOswlj5W8dibzKtnYgzUpA" uri="tasks/PM.1.5%20Identify%20and%20document%20the%20resources.xmi"/>
+    <resourceDescriptors xmi:id="_BAXiYOjWEeiFlvfecf-t4w" id="-pArhOUcA7TvU5HPwJtMYBA" uri="tasks/PM.1.6%20Establish%20the%20Composition%20of%20Work%20Team.xmi"/>
+    <resourceDescriptors xmi:id="_BAe3IOjWEeiFlvfecf-t4w" id="-96hsS7-YiXBZhKt6lN_N7w" uri="tasks/PM.1.7%20Assign%20estimated%20start%20and%20completion%20dates.xmi"/>
+    <resourceDescriptors xmi:id="_BAgFQOjWEeiFlvfecf-t4w" id="-uHnV8vqnv93_N_uUqCSEMg" uri="tasks/PM.1.8%20Calculate%20and%20document%20the%20project%20Estimated%20Effort%20and%20Cost.xmi"/>
+    <resourceDescriptors xmi:id="_BAhTYOjWEeiFlvfecf-t4w" id="-fzAdkxQ6cE5ytJuXYxzsYg" uri="tasks/PM.1.9%20Identify%20and%20document%20the%20risks%20which%20may%20affect%20the%20project.xmi"/>
+    <resourceDescriptors xmi:id="_BAihgOjWEeiFlvfecf-t4w" id="-Ts6N71OQwITCCe2VSY58ag" uri="tasks/PM.1.10%20Document%20the%20Version%20Control%20Strategy%20in%20the%20Project%20Plan.xmi"/>
+    <resourceDescriptors xmi:id="_BArrcOjWEeiFlvfecf-t4w" id="-9Ps6MegtdjOh5WWvOk6PqA" uri="tasks/PM.1.11%20Generate%20the%20Project%20Plan%20integrating%20the%20elements%20previously%20identified%20and%20documented.xmi"/>
+    <resourceDescriptors xmi:id="_BAuuwOjWEeiFlvfecf-t4w" id="-0pfUu3b5vUe6wdoIhbnGzA" uri="tasks/PM.1.12%20Include%20product%20description,%20scope,%20objectives%20and%20deliverables%20in%20the%20Project%20Plan.xmi"/>
+    <resourceDescriptors xmi:id="_BAwj8OjWEeiFlvfecf-t4w" id="-VSby2KlD7tadr-Yvvsf7sg" uri="tasks/PM.1.13%20Verify%20and%20obtain%20approval%20of%20the%20Project%20Plan.xmi"/>
+    <resourceDescriptors xmi:id="_BAxyEOjWEeiFlvfecf-t4w" id="-e_6p-d7bfNo4vRwIHls5Pg" uri="tasks/PM.1.14%20Review%20and%20accept%20the%20Project%20Plan.xmi"/>
+    <resourceDescriptors xmi:id="_BA0OUOjWEeiFlvfecf-t4w" id="-yR1Z_upZ4PXQs9G3Vl0GpA" uri="tasks/PM.1.15%20Establish%20the%20project%20repository%20using%20the%20Version%20Control%20Strategy.xmi"/>
+    <resourceDescriptors xmi:id="_BA9YQOjWEeiFlvfecf-t4w" id="--itNbU7rXd47lUeiFPaKnA" uri="workproducts/Meeting%20Record.xmi"/>
+    <resourceDescriptors xmi:id="_BA-mYOjWEeiFlvfecf-t4w" id="-pQtYHVtnya5u1kIrW40wdQ" uri="workproducts/Project%20Repository.xmi"/>
+    <resourceDescriptors xmi:id="_BBAbkOjWEeiFlvfecf-t4w" id="-lnPLW6L0nt9wncMFConrZQ" uri="tasks/PM.2.1%20Monitor%20the%20Project%20Plan%20execution.xmi"/>
+    <resourceDescriptors xmi:id="_BBBpsOjWEeiFlvfecf-t4w" id="-hUNNCqrVunU-aMg1t9zs3w" uri="tasks/PM.2.2%20Analyse%20and%20evaluate%20the%20Change%20Request.xmi"/>
+    <resourceDescriptors xmi:id="_BBC30OjWEeiFlvfecf-t4w" id="-cett-_KQ4Xsj1k2zHJ8AiA" uri="tasks/PM.2.3%20Conduct%20revision%20meetings%20with%20the%20Work%20Team.xmi"/>
+    <resourceDescriptors xmi:id="_BBHwUOjWEeiFlvfecf-t4w" id="-9NBZ7Izaj6a5hCKFfv1g6Q" uri="tasks/PM.2.4%20Conduct%20revision%20meetings%20with%20the%20Customer.xmi"/>
+    <resourceDescriptors xmi:id="_BBOeAOjWEeiFlvfecf-t4w" id="-M24oUekjTXRMKY-bYP0V9Q" uri="tasks/PM.2.5%20Perform%20backup.xmi"/>
+    <resourceDescriptors xmi:id="_BBT9kOjWEeiFlvfecf-t4w" id="-ucmQRc97VFZNYBRehlLbGA" uri="tasks/PM.2.6%20Perform%20Project%20Repository%20recovery.xmi"/>
+    <resourceDescriptors xmi:id="_BBVLsOjWEeiFlvfecf-t4w" id="-3X_VyfJT9OgjpDrzoeTgxw" uri="roles/Work%20Team.xmi"/>
+    <resourceDescriptors xmi:id="_BBXn8OjWEeiFlvfecf-t4w" id="-le3Jm-ckbHiZUOaGUKZvmA" uri="tasks/PM.3.1%20Evaluate%20project%20progress.xmi"/>
+    <resourceDescriptors xmi:id="_BBZdIOjWEeiFlvfecf-t4w" id="-F_8ruVziGvvStZMaiV_l5g" uri="tasks/PM.3.2%20Establish%20actions%20to%20correct%20deviations.xmi"/>
+    <resourceDescriptors xmi:id="_BBarQOjWEeiFlvfecf-t4w" id="-ggMT59RJ6Tp6mMijZzGhag" uri="tasks/PM.3.3%20Identify%20changes%20to%20requirements.xmi"/>
+    <resourceDescriptors xmi:id="_BBinEOjWEeiFlvfecf-t4w" id="-buXCQGFTmxB1Q8ruRUUT7w" uri="tasks/PM.4.1.%20Formalize%20the%20completion%20of%20the%20project.xmi"/>
+    <resourceDescriptors xmi:id="_BBj1MOjWEeiFlvfecf-t4w" id="-6DNJ8pPaT9q0PafCf5CqsQ" uri="tasks/PM.4.2%20Update%20Project%20Repository.xmi"/>
+    <resourceDescriptors xmi:id="_BBm4gOjWEeiFlvfecf-t4w" id="-b-xVDfbvewbR283SikG6dA" uri="workproducts/VR.xmi"/>
+    <resourceDescriptors xmi:id="_BBpUwOjWEeiFlvfecf-t4w" id="-tm2o2q6GX0hSU60RMBdbkQ" uri="workproducts/Progress%20Status%20Record.xmi"/>
+    <resourceDescriptors xmi:id="_BBwpgOjWEeiFlvfecf-t4w" id="-l3af1BaKlLpO6h3eBUmAwg" uri="workproducts/Correction%20Register.xmi"/>
+    <resourceDescriptors xmi:id="_BBx3oOjWEeiFlvfecf-t4w" id="-CuJR7ytQTyCYbfyd-WV-PA" uri="workproducts/Acceptance%20Record.xmi"/>
+    <resourceDescriptors xmi:id="_BBzs0OjWEeiFlvfecf-t4w" id="-dg1tBOOUyt3n1oUMd1DrBA" uri="guidances/concepts/Objectives.xmi"/>
+    <resourceDescriptors xmi:id="_F-diIOjYEeidu84t4S4yTg" id="-QjLRRfGc5FdC0i8VPPNHRw" uri="guidances/supportingmaterials/copyright.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_W4HjsGROEd-Xz6JKIpjvlQ" name="29110-Basic-Root" guid="_W4HjsGROEd-Xz6JKIpjvlQ" presentationName="29110-5-2-1 Basic Profile for Very Small Entities (VSEs)" authors="Roger Champagne " changeDate="2018-11-15T14:14:32.473+0100" copyrightStatement="_naFZ0OjXEeidu84t4S4yTg">
+    <methodElementProperty xmi:id="_A5naIOjWEeiFlvfecf-t4w" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_cNB2EOjYEeiY2K1_DP-QwQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A5cbAOjWEeiFlvfecf-t4w" name="Content" guid="_A5cbAOjWEeiFlvfecf-t4w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A5cbAejWEeiFlvfecf-t4w" name="Categories" guid="_A5cbAejWEeiFlvfecf-t4w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A5cbAujWEeiFlvfecf-t4w" name="Domains" guid="_A5cbAujWEeiFlvfecf-t4w">
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_RmXqoJiuEd-HULhBcD6G3g" name="Design" guid="_RmXqoJiuEd-HULhBcD6G3g" presentationName="SI.3 Software Architectural and Detailed Design" briefDescription="The design phase of the basic profile." workProducts="_rim1wGROEd-Xz6JKIpjvlQ">
+            <presentation xmi:id="-OjQYVBhqYq6ZCwIPfySLAw" href="uma://-OjQYVBhqYq6ZCwIPfySLAw#-OjQYVBhqYq6ZCwIPfySLAw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A5cbA-jWEeiFlvfecf-t4w" name="Disciplines" guid="_A5cbA-jWEeiFlvfecf-t4w">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_6plx0GTkEd-c05WD_Ii7zw" name="Project Management" guid="_6plx0GTkEd-c05WD_Ii7zw" presentationName="Project Management" briefDescription="The purpose of the Project Management process is to establish and carry out in a systematic way the tasks of the software implementation project, which allows complying with the project’s objectives in the expected quality, time and costs.">
+            <methodElementProperty xmi:id="_A7ozYOjWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-JMWWqkN_U12gu-GsaF9sjg" href="uma://-JMWWqkN_U12gu-GsaF9sjg#-JMWWqkN_U12gu-GsaF9sjg"/>
+            <subdiscipline xmi:id="_DqRIEMJvEd-bj-7GOx_x0Q" name="PM.1 Project planning" guid="_DqRIEMJvEd-bj-7GOx_x0Q" presentationName="PM.1 Project planning" briefDescription="The Project Planning activity documents the planning details needed to manage the project" tasks="_cB4nYMf6Ed-uaoHezqavZA _FSy48Mf9Ed-uaoHezqavZA _tVk_8Mf-Ed-uaoHezqavZA _vkRFEMf-Ed-uaoHezqavZA _wv_4YMf-Ed-uaoHezqavZA _yIWLYMf-Ed-uaoHezqavZA _1dIV4Mf-Ed-uaoHezqavZA _2dNS0Mf-Ed-uaoHezqavZA _3ZYnMMf-Ed-uaoHezqavZA _4SA4UMf-Ed-uaoHezqavZA _6RUdoMf-Ed-uaoHezqavZA _7GCfIMf-Ed-uaoHezqavZA _8oB2UMf-Ed-uaoHezqavZA _9xR9YMf-Ed-uaoHezqavZA _-5lCMMf-Ed-uaoHezqavZA">
+              <methodElementProperty xmi:id="_A7ykYOjWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Manual"/>
+              <presentation xmi:id="-XRQJRZOwyLVKgMPpN3FJ1A" href="uma://-XRQJRZOwyLVKgMPpN3FJ1A#-XRQJRZOwyLVKgMPpN3FJ1A"/>
+            </subdiscipline>
+            <subdiscipline xmi:id="_JyUrcMJvEd-bj-7GOx_x0Q" name="PM.2 Project Plan Execution" guid="_JyUrcMJvEd-bj-7GOx_x0Q" presentationName="PM.2 Project Plan Execution" briefDescription="The Project Plan Execution activity implements the documented plan on the project.  " tasks="_9x1KcMgTEd-uaoHezqavZA _Ae_UQMgUEd-uaoHezqavZA _Bo0DEMgUEd-uaoHezqavZA _DrRDAMgUEd-uaoHezqavZA _E6J4AMgUEd-uaoHezqavZA _GL6a0MgUEd-uaoHezqavZA">
+              <methodElementProperty xmi:id="_A7zygOjWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Manual"/>
+              <presentation xmi:id="-XSv-ZG4IBedbRg6jfEfHHg" href="uma://-XSv-ZG4IBedbRg6jfEfHHg#-XSv-ZG4IBedbRg6jfEfHHg"/>
+            </subdiscipline>
+            <subdiscipline xmi:id="_IlOCEMf0Ed-uaoHezqavZA" name="PM.3 Project Assessment and Control" guid="_IlOCEMf0Ed-uaoHezqavZA" presentationName="PM.3 Project Assessment and Control" briefDescription="The Project Assessment and Control activity evaluates the performance of the plan against documented commitments.  " tasks="_BMuVQMgaEd-_5sDuB6Asjg _D19oYMgaEd-_5sDuB6Asjg _FGFzgMgaEd-_5sDuB6Asjg">
+              <methodElementProperty xmi:id="_A755IOjWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Alphabetic"/>
+              <presentation xmi:id="-GzjoC9Vf5Rm0kDoHIGS2ig" href="uma://-GzjoC9Vf5Rm0kDoHIGS2ig#-GzjoC9Vf5Rm0kDoHIGS2ig"/>
+            </subdiscipline>
+            <subdiscipline xmi:id="_TWYekMf0Ed-uaoHezqavZA" name="PM.4 Project Closure" guid="_TWYekMf0Ed-uaoHezqavZA" presentationName="PM.4 Project Closure" briefDescription="The Project Closure activity provides the project’s documentation and products in accordance with contract requirements. " tasks="_H16PwMgaEd-_5sDuB6Asjg _JCILQMgaEd-_5sDuB6Asjg">
+              <methodElementProperty xmi:id="_A7__wOjWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Alphabetic"/>
+              <presentation xmi:id="-7Gsub7ZiILxO8FhiheVKkw" href="uma://-7Gsub7ZiILxO8FhiheVKkw#-7Gsub7ZiILxO8FhiheVKkw"/>
+            </subdiscipline>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_-TTVUMJsEd-bj-7GOx_x0Q" name="Implementation" guid="_-TTVUMJsEd-bj-7GOx_x0Q" presentationName="Implementation">
+            <methodElementProperty xmi:id="_A8BN4OjWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Alphabetic"/>
+            <presentation xmi:id="-AlLcGH2i3ql6wBLP4APE8g" href="uma://-AlLcGH2i3ql6wBLP4APE8g#-AlLcGH2i3ql6wBLP4APE8g"/>
+            <subdiscipline xmi:id="_v9bfIMJwEd-RX8rb-MNtTw" name="GP.2" guid="_v9bfIMJwEd-RX8rb-MNtTw" presentationName="GP.2" briefDescription="The design phase." tasks="_iM5ukGTmEd-c05WD_Ii7zw _xi154GROEd-Xz6JKIpjvlQ _Z9fAoGTnEd-c05WD_Ii7zw _8I_AoGTnEd-c05WD_Ii7zw _x0F-gGTpEd-c05WD_Ii7zw _98Hq0GTqEd-c05WD_Ii7zw _cuz78GTrEd-c05WD_Ii7zw _z-B0kGTrEd-c05WD_Ii7zw">
+              <methodElementProperty xmi:id="_A8ERMOjWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Alphabetic"/>
+              <presentation xmi:id="-gHDaH81FF5IPE8pi6-ltJw" href="uma://-gHDaH81FF5IPE8pi6-ltJw#-gHDaH81FF5IPE8pi6-ltJw"/>
+            </subdiscipline>
+            <subdiscipline xmi:id="_xNwekMJwEd-RX8rb-MNtTw" name="PG.1" guid="_xNwekMJwEd-RX8rb-MNtTw" presentationName="GP1" briefDescription="The design phase." tasks="_iM5ukGTmEd-c05WD_Ii7zw _xi154GROEd-Xz6JKIpjvlQ _Z9fAoGTnEd-c05WD_Ii7zw _8I_AoGTnEd-c05WD_Ii7zw _x0F-gGTpEd-c05WD_Ii7zw _98Hq0GTqEd-c05WD_Ii7zw _cuz78GTrEd-c05WD_Ii7zw _z-B0kGTrEd-c05WD_Ii7zw">
+              <methodElementProperty xmi:id="_A8GGYOjWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Alphabetic"/>
+              <presentation xmi:id="-OSRh8-anET3uTA-riPcsnQ" href="uma://-OSRh8-anET3uTA-riPcsnQ#-OSRh8-anET3uTA-riPcsnQ"/>
+            </subdiscipline>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A5cbBOjWEeiFlvfecf-t4w" name="RoleSets" guid="_A5cbBOjWEeiFlvfecf-t4w">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_-qBoMGRyEd-c05WD_Ii7zw" name="basic_role_set" guid="_-qBoMGRyEd-c05WD_Ii7zw" variabilityType="contributes" roles="_5l9gIGRsEd-c05WD_Ii7zw _kqbdAGROEd-Xz6JKIpjvlQ _Afx3oGRtEd-c05WD_Ii7zw _A69A4Mf7Ed-uaoHezqavZA _aL9gMMf9Ed-uaoHezqavZA _Va01AMgUEd-uaoHezqavZA"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A5cbBejWEeiFlvfecf-t4w" name="WP Types" guid="_A5cbBejWEeiFlvfecf-t4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A5cbBujWEeiFlvfecf-t4w" name="Tools" guid="_A5cbBujWEeiFlvfecf-t4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A5cbB-jWEeiFlvfecf-t4w" name="StandardCategories" guid="_A5cbB-jWEeiFlvfecf-t4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A5cbCOjWEeiFlvfecf-t4w" name="CustomCategories" guid="_A5cbCOjWEeiFlvfecf-t4w">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A5cbCejWEeiFlvfecf-t4w" name="Hidden" guid="_A5cbCejWEeiFlvfecf-t4w">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_A5cbCujWEeiFlvfecf-t4w" name="Custom Categories" guid="_A5cbCujWEeiFlvfecf-t4w" categorizedElements="_mssoAGRUEd-Xz6JKIpjvlQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mssoAGRUEd-Xz6JKIpjvlQ" name="29110_basic_root" guid="_mssoAGRUEd-Xz6JKIpjvlQ" presentationName="ISO/IEC 29110 Basic Profile" categorizedElements="_XskIkKWuEd-RtoSDv1JIuQ _Vfu0MGTtEd-c05WD_Ii7zw _pSnVYGTYEd-c05WD_Ii7zw _zKH7IGTaEd-c05WD_Ii7zw _afxEwGTbEd-c05WD_Ii7zw _Dc7KAKWvEd-RtoSDv1JIuQ _naFZ0OjXEeidu84t4S4yTg">
+            <methodElementProperty xmi:id="_A7Q_8OjWEeiFlvfecf-t4w" name="PUBLISH_CATEGORY" value="false"/>
+            <methodElementProperty xmi:id="_A7Q_8ejWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Manual"/>
+            <methodElementProperty xmi:id="_4QBxUOjZEeiY2K1_DP-QwQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_pSnVYGTYEd-c05WD_Ii7zw" name="roles" guid="_pSnVYGTYEd-c05WD_Ii7zw" presentationName="Roles" nodeicon="customcategories/resources/role.gif" categorizedElements="_5l9gIGRsEd-c05WD_Ii7zw _kqbdAGROEd-Xz6JKIpjvlQ _Afx3oGRtEd-c05WD_Ii7zw _A69A4Mf7Ed-uaoHezqavZA">
+            <methodElementProperty xmi:id="_A7VRYOjWEeiFlvfecf-t4w" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_A7VRYejWEeiFlvfecf-t4w" name="include" value="Role"/>
+            <methodElementProperty xmi:id="_A7VRYujWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Alphabetic"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_zKH7IGTaEd-c05WD_Ii7zw" name="products" guid="_zKH7IGTaEd-c05WD_Ii7zw" presentationName="Products" nodeicon="customcategories/resources/workproduct_obj.gif" categorizedElements="_OoDMsGTXEd-c05WD_Ii7zw _rim1wGROEd-Xz6JKIpjvlQ _JM470GToEd-c05WD_Ii7zw _UBEQEGToEd-c05WD_Ii7zw _bYo6kGToEd-c05WD_Ii7zw _C7mSAGTqEd-c05WD_Ii7zw _M5iP4GTsEd-c05WD_Ii7zw __WLK0GTmEd-c05WD_Ii7zw _xpRC4MgjEd-_5sDuB6Asjg _oml98MgiEd-_5sDuB6Asjg _eHk9AMgEEd-uaoHezqavZA _77X2wMghEd-_5sDuB6Asjg _gSJ-MMgEEd-uaoHezqavZA _yPSoQMf7Ed-uaoHezqavZA">
+            <methodElementProperty xmi:id="_A7d0QOjWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Alphabetic"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_afxEwGTbEd-c05WD_Ii7zw" name="tasks" guid="_afxEwGTbEd-c05WD_Ii7zw" presentationName="Tasks" nodeicon="customcategories/resources/task_obj.gif" categorizedElements="_cB4nYMf6Ed-uaoHezqavZA _FSy48Mf9Ed-uaoHezqavZA _tVk_8Mf-Ed-uaoHezqavZA _vkRFEMf-Ed-uaoHezqavZA _wv_4YMf-Ed-uaoHezqavZA _yIWLYMf-Ed-uaoHezqavZA _1dIV4Mf-Ed-uaoHezqavZA _2dNS0Mf-Ed-uaoHezqavZA _3ZYnMMf-Ed-uaoHezqavZA _4SA4UMf-Ed-uaoHezqavZA _6RUdoMf-Ed-uaoHezqavZA _7GCfIMf-Ed-uaoHezqavZA _8oB2UMf-Ed-uaoHezqavZA _9xR9YMf-Ed-uaoHezqavZA _-5lCMMf-Ed-uaoHezqavZA _9x1KcMgTEd-uaoHezqavZA _Ae_UQMgUEd-uaoHezqavZA _Bo0DEMgUEd-uaoHezqavZA _DrRDAMgUEd-uaoHezqavZA _E6J4AMgUEd-uaoHezqavZA _GL6a0MgUEd-uaoHezqavZA _BMuVQMgaEd-_5sDuB6Asjg _D19oYMgaEd-_5sDuB6Asjg _FGFzgMgaEd-_5sDuB6Asjg _H16PwMgaEd-_5sDuB6Asjg _JCILQMgaEd-_5sDuB6Asjg _iM5ukGTmEd-c05WD_Ii7zw _Z9fAoGTnEd-c05WD_Ii7zw _xi154GROEd-Xz6JKIpjvlQ _8I_AoGTnEd-c05WD_Ii7zw _x0F-gGTpEd-c05WD_Ii7zw _98Hq0GTqEd-c05WD_Ii7zw _cuz78GTrEd-c05WD_Ii7zw _z-B0kGTrEd-c05WD_Ii7zw">
+            <methodElementProperty xmi:id="_A7fCYOjWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Manual"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Vfu0MGTtEd-c05WD_Ii7zw" name="disciplines" guid="_Vfu0MGTtEd-c05WD_Ii7zw" presentationName="Disciplines" nodeicon="customcategories/resources/discipline_obj.gif" categorizedElements="_6plx0GTkEd-c05WD_Ii7zw _-TTVUMJsEd-bj-7GOx_x0Q">
+            <methodElementProperty xmi:id="_A7g3kOjWEeiFlvfecf-t4w" name="CategoryElementsSortType" value="Manual"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Dc7KAKWvEd-RtoSDv1JIuQ" name="guidance" guid="_Dc7KAKWvEd-RtoSDv1JIuQ" presentationName="Guidance" nodeicon="customcategories/resources/bookc.gif" categorizedElements="_1ftBMKWuEd-RtoSDv1JIuQ _n7sQUKWzEd-RtoSDv1JIuQ _wnJkkKWzEd-RtoSDv1JIuQ _naFZ0OjXEeidu84t4S4yTg">
+            <methodElementProperty xmi:id="_b1lJ8OjZEeiY2K1_DP-QwQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_n7sQUKWzEd-RtoSDv1JIuQ" name="checklists" guid="_n7sQUKWzEd-RtoSDv1JIuQ" presentationName="Checklists" shapeicon="customcategories/resources/checklist_dgm32.gif" nodeicon="customcategories/resources/checklist_obj.gif"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_wnJkkKWzEd-RtoSDv1JIuQ" name="templates" guid="_wnJkkKWzEd-RtoSDv1JIuQ" presentationName="Templates" nodeicon="customcategories/resources/template_obj.gif"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A5cbC-jWEeiFlvfecf-t4w" name="CoreContent" guid="_A5cbC-jWEeiFlvfecf-t4w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fzOdgGROEd-Xz6JKIpjvlQ" name="29110-Basic-Root" guid="_fzOdgGROEd-Xz6JKIpjvlQ" presentationName="29110 Basic Content">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_kqbdAGROEd-Xz6JKIpjvlQ" name="designer" guid="_kqbdAGROEd-Xz6JKIpjvlQ" presentationName="Designer (DES)">
+            <presentation xmi:id="-7iKvG9SKSzaf94YvgKNIew" href="uma://-7iKvG9SKSzaf94YvgKNIew#-7iKvG9SKSzaf94YvgKNIew"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_rim1wGROEd-Xz6JKIpjvlQ" name="software_design" guid="_rim1wGROEd-Xz6JKIpjvlQ" presentationName="Software Design" briefDescription="The main design artifact.">
+            <presentation xmi:id="-nBaDBKUuWaDu-oPfN9jgtQ" href="uma://-nBaDBKUuWaDu-oPfN9jgtQ#-nBaDBKUuWaDu-oPfN9jgtQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xi154GROEd-Xz6JKIpjvlQ" name="document_software_design" guid="_xi154GROEd-Xz6JKIpjvlQ" presentationName="SI.3.3 Document Software Design" performedBy="_kqbdAGROEd-Xz6JKIpjvlQ" mandatoryInput="_OoDMsGTXEd-c05WD_Ii7zw" output="_rim1wGROEd-Xz6JKIpjvlQ" additionallyPerformedBy="_5l9gIGRsEd-c05WD_Ii7zw">
+            <presentation xmi:id="-WW1ZGmbf37ka-2bUUCX5sA" href="uma://-WW1ZGmbf37ka-2bUUCX5sA#-WW1ZGmbf37ka-2bUUCX5sA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_5l9gIGRsEd-c05WD_Ii7zw" name="analyst" guid="_5l9gIGRsEd-c05WD_Ii7zw" presentationName="Analyst (AN)">
+            <presentation xmi:id="-fekZ9Yxaum40OCygutflBw" href="uma://-fekZ9Yxaum40OCygutflBw#-fekZ9Yxaum40OCygutflBw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Afx3oGRtEd-c05WD_Ii7zw" name="technical_lead" guid="_Afx3oGRtEd-c05WD_Ii7zw" presentationName="Technical Lead (TL)">
+            <presentation xmi:id="-a2h56GYjuWSZzXNg5WKvQQ" href="uma://-a2h56GYjuWSZzXNg5WKvQQ#-a2h56GYjuWSZzXNg5WKvQQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OoDMsGTXEd-c05WD_Ii7zw" name="requirements_spec" guid="_OoDMsGTXEd-c05WD_Ii7zw" presentationName="Requirements Specification"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_iM5ukGTmEd-c05WD_Ii7zw" name="assign_tasks" guid="_iM5ukGTmEd-c05WD_Ii7zw" presentationName="SI.3.1 Assign tasks" briefDescription="Assign tasks to the Work Team members related to their role according to the current Project Plan." performedBy="_Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="__WLK0GTmEd-c05WD_Ii7zw" additionallyPerformedBy="_5l9gIGRsEd-c05WD_Ii7zw _kqbdAGROEd-Xz6JKIpjvlQ">
+            <presentation xmi:id="-dvNgx-gteX8Ww0bwgzMDUg" href="uma://-dvNgx-gteX8Ww0bwgzMDUg#-dvNgx-gteX8Ww0bwgzMDUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="__WLK0GTmEd-c05WD_Ii7zw" name="project_plan" guid="__WLK0GTmEd-c05WD_Ii7zw" presentationName="Project Plan">
+            <presentation xmi:id="-_qzo0skMQYNUyddUl30fcg" href="uma://-_qzo0skMQYNUyddUl30fcg#-_qzo0skMQYNUyddUl30fcg"/>
+            <containedArtifacts xmi:id="_uwihIMwnEd-Va56hoidFMA" name="Delivery Instructions" guid="_uwihIMwnEd-Va56hoidFMA" presentationName="Delivery Instructions">
+              <presentation xmi:id="-2JItTYG77mpE_fOHgZGloA" href="uma://-2JItTYG77mpE_fOHgZGloA#-2JItTYG77mpE_fOHgZGloA"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_JWaA8MwyEd-Va56hoidFMA" name="Tasks" guid="_JWaA8MwyEd-Va56hoidFMA" presentationName="Tasks">
+              <presentation xmi:id="-PM9ZckjvvHXY2Ttnt4c9LQ" href="uma://-PM9ZckjvvHXY2Ttnt4c9LQ#-PM9ZckjvvHXY2Ttnt4c9LQ"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_bGQG0MwyEd-Va56hoidFMA" name="Estimated Duration" guid="_bGQG0MwyEd-Va56hoidFMA" presentationName="Estimated Duration">
+              <presentation xmi:id="-nMl4nVasgg--bwFlBUyZ8Q" href="uma://-nMl4nVasgg--bwFlBUyZ8Q#-nMl4nVasgg--bwFlBUyZ8Q"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_ob3dEMwyEd-Va56hoidFMA" name="Resources" guid="_ob3dEMwyEd-Va56hoidFMA" presentationName="Resources">
+              <presentation xmi:id="-nYmNJa3orP91PIspE-nYpA" href="uma://-nYmNJa3orP91PIspE-nYpA#-nYmNJa3orP91PIspE-nYpA"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_8KQTQMwyEd-Va56hoidFMA" name="Composition of Work Team" guid="_8KQTQMwyEd-Va56hoidFMA" presentationName="Composition of Work Team">
+              <presentation xmi:id="-45opO2Qm79lTwHdjoyQIMA" href="uma://-45opO2Qm79lTwHdjoyQIMA#-45opO2Qm79lTwHdjoyQIMA"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_E223AMwzEd-Va56hoidFMA" name="Schedule of the Project Tasks" guid="_E223AMwzEd-Va56hoidFMA" presentationName="Schedule of the Project Tasks">
+              <presentation xmi:id="-Z8aKXQhNXetIuA_ERjSnyQ" href="uma://-Z8aKXQhNXetIuA_ERjSnyQ#-Z8aKXQhNXetIuA_ERjSnyQ"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_S4aGMMwzEd-Va56hoidFMA" name="Estimated Effort and Cost" guid="_S4aGMMwzEd-Va56hoidFMA" presentationName="Estimated Effort and Cost"/>
+            <containedArtifacts xmi:id="_b4ZgAMwzEd-Va56hoidFMA" name="Identification of Project Risks" guid="_b4ZgAMwzEd-Va56hoidFMA" presentationName="Identification of Project Risks">
+              <presentation xmi:id="-Z8OYqZczOCwLhANtYO-1hw" href="uma://-Z8OYqZczOCwLhANtYO-1hw#-Z8OYqZczOCwLhANtYO-1hw"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_m6vzIMwzEd-Va56hoidFMA" name="Version Control Strategy" guid="_m6vzIMwzEd-Va56hoidFMA" presentationName="Version Control Strategy">
+              <presentation xmi:id="-VLXFcAJ2ma3JSFhFD8CDLQ" href="uma://-VLXFcAJ2ma3JSFhFD8CDLQ#-VLXFcAJ2ma3JSFhFD8CDLQ"/>
+            </containedArtifacts>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Z9fAoGTnEd-c05WD_Ii7zw" name="understand_requirements" guid="_Z9fAoGTnEd-c05WD_Ii7zw" presentationName="SI.3.2 Understand Requirements Specification" performedBy="_kqbdAGROEd-Xz6JKIpjvlQ" mandatoryInput="_OoDMsGTXEd-c05WD_Ii7zw" additionallyPerformedBy="_5l9gIGRsEd-c05WD_Ii7zw">
+            <presentation xmi:id="-ek3Gx2KyzibKTJP9KhnKpw" href="uma://-ek3Gx2KyzibKTJP9KhnKpw#-ek3Gx2KyzibKTJP9KhnKpw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8I_AoGTnEd-c05WD_Ii7zw" name="validate_design" guid="_8I_AoGTnEd-c05WD_Ii7zw" presentationName="SI.3.4 Validate Software Design" performedBy="_5l9gIGRsEd-c05WD_Ii7zw _kqbdAGROEd-Xz6JKIpjvlQ" mandatoryInput="_OoDMsGTXEd-c05WD_Ii7zw _rim1wGROEd-Xz6JKIpjvlQ _JM470GToEd-c05WD_Ii7zw" output="_bYo6kGToEd-c05WD_Ii7zw _UBEQEGToEd-c05WD_Ii7zw">
+            <presentation xmi:id="-688oC4epuYUXSLpoYM9Jow" href="uma://-688oC4epuYUXSLpoYM9Jow#-688oC4epuYUXSLpoYM9Jow"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_JM470GToEd-c05WD_Ii7zw" name="traceability_record" guid="_JM470GToEd-c05WD_Ii7zw" presentationName="Traceability Record"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_UBEQEGToEd-c05WD_Ii7zw" name="verification_results" guid="_UBEQEGToEd-c05WD_Ii7zw" presentationName="Verifications Results">
+            <presentation xmi:id="-5N6IaH6BPpoYHUVBfaxa8w" href="uma://-5N6IaH6BPpoYHUVBfaxa8w#-5N6IaH6BPpoYHUVBfaxa8w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bYo6kGToEd-c05WD_Ii7zw" name="change_request" guid="_bYo6kGToEd-c05WD_Ii7zw" presentationName="Change Request">
+            <presentation xmi:id="-0Q6i-bqMCVnoExIvkDvDWQ" href="uma://-0Q6i-bqMCVnoExIvkDvDWQ#-0Q6i-bqMCVnoExIvkDvDWQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_x0F-gGTpEd-c05WD_Ii7zw" name="tests" guid="_x0F-gGTpEd-c05WD_Ii7zw" presentationName="SI.3.5 Establish Test Cases and Procedures" briefDescription="Establish or update Test Cases and Test Procedures for integration testing based on Requirements Specification and Software Design. Customer provides testing data, if needed." performedBy="_kqbdAGROEd-Xz6JKIpjvlQ" mandatoryInput="_OoDMsGTXEd-c05WD_Ii7zw _rim1wGROEd-Xz6JKIpjvlQ" output="_C7mSAGTqEd-c05WD_Ii7zw">
+            <presentation xmi:id="-y1PpIOP5G7-sbSgHVxEY3w" href="uma://-y1PpIOP5G7-sbSgHVxEY3w#-y1PpIOP5G7-sbSgHVxEY3w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_C7mSAGTqEd-c05WD_Ii7zw" name="test_cases_procedures" guid="_C7mSAGTqEd-c05WD_Ii7zw" presentationName="Test Cases and Procedures"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_98Hq0GTqEd-c05WD_Ii7zw" name="validate_tests" guid="_98Hq0GTqEd-c05WD_Ii7zw" presentationName="SI.3.6 Validate Test Cases and Procedures" briefDescription="Verify and obtain approval of the Test Cases and Test Procedures." performedBy="_5l9gIGRsEd-c05WD_Ii7zw _kqbdAGROEd-Xz6JKIpjvlQ" mandatoryInput="_OoDMsGTXEd-c05WD_Ii7zw _rim1wGROEd-Xz6JKIpjvlQ _C7mSAGTqEd-c05WD_Ii7zw" output="_UBEQEGToEd-c05WD_Ii7zw">
+            <presentation xmi:id="-26urW2dyAnTvqdIk9qtbgQ" href="uma://-26urW2dyAnTvqdIk9qtbgQ#-26urW2dyAnTvqdIk9qtbgQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cuz78GTrEd-c05WD_Ii7zw" name="update_traceability_record" guid="_cuz78GTrEd-c05WD_Ii7zw" presentationName="SI.3.7 Update Traceability Record" briefDescription="SI.3.7 Update the Traceability Record incorporating the Test Cases and Test Procedures." performedBy="_kqbdAGROEd-Xz6JKIpjvlQ" mandatoryInput="_C7mSAGTqEd-c05WD_Ii7zw _JM470GToEd-c05WD_Ii7zw" output="_JM470GToEd-c05WD_Ii7zw">
+            <presentation xmi:id="-xlkp84i7NVaSc7ghYEFzfQ" href="uma://-xlkp84i7NVaSc7ghYEFzfQ#-xlkp84i7NVaSc7ghYEFzfQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_z-B0kGTrEd-c05WD_Ii7zw" name="update_software_configuration" guid="_z-B0kGTrEd-c05WD_Ii7zw" presentationName="SI.3.8 Update Software Configurartion" briefDescription="SI.3.8 Incorporate the Software Design, and Traceability Record to the Software Configuration as part of the baseline. Incorporate the Test Cases, and Test Procedures to the Project Repository." performedBy="_Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="_rim1wGROEd-Xz6JKIpjvlQ _C7mSAGTqEd-c05WD_Ii7zw _JM470GToEd-c05WD_Ii7zw" output="_M5iP4GTsEd-c05WD_Ii7zw">
+            <presentation xmi:id="-dQ5VNX_ushvNpUGZXQ-ygA" href="uma://-dQ5VNX_ushvNpUGZXQ-ygA#-dQ5VNX_ushvNpUGZXQ-ygA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_M5iP4GTsEd-c05WD_Ii7zw" name="software_configuration" guid="_M5iP4GTsEd-c05WD_Ii7zw" presentationName="Software Configuration"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_XskIkKWuEd-RtoSDv1JIuQ" name="welcome" guid="_XskIkKWuEd-RtoSDv1JIuQ" presentationName="Welcome" briefDescription="Welcome to the ISO/IEC 29110 Basic profile." shapeicon="guidances/supportingmaterials/resources/icon_introL.gif" nodeicon="guidances/supportingmaterials/resources/mic.gif">
+            <presentation xmi:id="-_vpTQPhzM8eeGfIxn1KKfw" href="uma://-_vpTQPhzM8eeGfIxn1KKfw#-_vpTQPhzM8eeGfIxn1KKfw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_1ftBMKWuEd-RtoSDv1JIuQ" name="references" guid="_1ftBMKWuEd-RtoSDv1JIuQ" presentationName="References" briefDescription="List of relevant references used in this profile and the installed Deployment Packages.">
+            <presentation xmi:id="-0xZbw2hmPTOTZwBujyQVHg" href="uma://-0xZbw2hmPTOTZwBujyQVHg#-0xZbw2hmPTOTZwBujyQVHg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cB4nYMf6Ed-uaoHezqavZA" name="PM.1.1 Review the Statement of Work" guid="_cB4nYMf6Ed-uaoHezqavZA" presentationName="PM.1.1 Review the Statement of Work " performedBy="_Afx3oGRtEd-c05WD_Ii7zw _A69A4Mf7Ed-uaoHezqavZA" mandatoryInput="_yPSoQMf7Ed-uaoHezqavZA" output="_yPSoQMf7Ed-uaoHezqavZA">
+            <presentation xmi:id="-bwo3z-ArU6Thtdm4gLP3hQ" href="uma://-bwo3z-ArU6Thtdm4gLP3hQ#-bwo3z-ArU6Thtdm4gLP3hQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_A69A4Mf7Ed-uaoHezqavZA" name="Project Manager" guid="_A69A4Mf7Ed-uaoHezqavZA" presentationName="Project Manager (PM)">
+            <presentation xmi:id="-Hqw939B43t9o-Ns9eDHm6w" href="uma://-Hqw939B43t9o-Ns9eDHm6w#-Hqw939B43t9o-Ns9eDHm6w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yPSoQMf7Ed-uaoHezqavZA" name="Statement of Work" guid="_yPSoQMf7Ed-uaoHezqavZA" presentationName="Statement of Work">
+            <presentation xmi:id="-w1u5BDt07qqG5V2LIorqeg" href="uma://-w1u5BDt07qqG5V2LIorqeg#-w1u5BDt07qqG5V2LIorqeg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_FSy48Mf9Ed-uaoHezqavZA" name="PM.1.2 Define with the Customer the Delivery Instructions" guid="_FSy48Mf9Ed-uaoHezqavZA" presentationName="PM.1.2 Define with the Customer the Delivery Instructions " briefDescription="Define with the Customer the Delivery Instructions of each one of the deliverables specified in the Statement of Work." performedBy="_A69A4Mf7Ed-uaoHezqavZA _aL9gMMf9Ed-uaoHezqavZA" mandatoryInput="_yPSoQMf7Ed-uaoHezqavZA" output="_uwihIMwnEd-Va56hoidFMA">
+            <presentation xmi:id="-aGmQtYiSsaluXW2QQXR16Q" href="uma://-aGmQtYiSsaluXW2QQXR16Q#-aGmQtYiSsaluXW2QQXR16Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_aL9gMMf9Ed-uaoHezqavZA" name="Customer" guid="_aL9gMMf9Ed-uaoHezqavZA" presentationName="Project Manager (PM)">
+            <presentation xmi:id="-DLwPNsE3KPd0t5VSnUI4uw" href="uma://-DLwPNsE3KPd0t5VSnUI4uw#-DLwPNsE3KPd0t5VSnUI4uw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tVk_8Mf-Ed-uaoHezqavZA" name="PM.1.3 Identify the specific tasks to be performed" guid="_tVk_8Mf-Ed-uaoHezqavZA" presentationName="PM.1.3 Identify the specific tasks to be performed " briefDescription="Identify the specific tasks to be performed in order to produce the deliverables and their software components identified in the Statement of Work." performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="_yPSoQMf7Ed-uaoHezqavZA" output="_JWaA8MwyEd-Va56hoidFMA">
+            <presentation xmi:id="-guFKYBcbq2epPE--7YuB2A" href="uma://-guFKYBcbq2epPE--7YuB2A#-guFKYBcbq2epPE--7YuB2A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vkRFEMf-Ed-uaoHezqavZA" name="PM.1.4 Establish the Estimated Duration to perform each task" guid="_vkRFEMf-Ed-uaoHezqavZA" presentationName="PM.1.4 Establish the Estimated Duration to perform each task. " performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="_JWaA8MwyEd-Va56hoidFMA" output="_bGQG0MwyEd-Va56hoidFMA">
+            <presentation xmi:id="-neAu80Db5V41NJvbXA6K8Q" href="uma://-neAu80Db5V41NJvbXA6K8Q#-neAu80Db5V41NJvbXA6K8Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wv_4YMf-Ed-uaoHezqavZA" name="PM.1.5 Identify and document the resources" guid="_wv_4YMf-Ed-uaoHezqavZA" presentationName="PM.1.5 Identify and document the resources" briefDescription="Identify and document the resources: human, material, equipment and tools, standards, including the required training of the Work Team to perform the project. " performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="_yPSoQMf7Ed-uaoHezqavZA" output="_ob3dEMwyEd-Va56hoidFMA">
+            <presentation xmi:id="-SOswlj5W8dibzKtnYgzUpA" href="uma://-SOswlj5W8dibzKtnYgzUpA#-SOswlj5W8dibzKtnYgzUpA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yIWLYMf-Ed-uaoHezqavZA" name="PM.1.6 Establish the Composition of Work Team" guid="_yIWLYMf-Ed-uaoHezqavZA" presentationName="PM.1.6 Establish the Composition of Work Team" briefDescription="Establish the Composition of Work Team assigning roles and responsibilities according to the Resources." performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="_ob3dEMwyEd-Va56hoidFMA" output="_8KQTQMwyEd-Va56hoidFMA">
+            <presentation xmi:id="-pArhOUcA7TvU5HPwJtMYBA" href="uma://-pArhOUcA7TvU5HPwJtMYBA#-pArhOUcA7TvU5HPwJtMYBA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1dIV4Mf-Ed-uaoHezqavZA" name="PM.1.7 Assign estimated start and completion dates" guid="_1dIV4Mf-Ed-uaoHezqavZA" presentationName="PM.1.7 Assign estimated start and completion dates " briefDescription="Assign estimated start and completion dates to each one of the tasks in order to create the Schedule of the Project Tasks taking into account the assigned resources, sequence and dependency of the tasks." performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="_JWaA8MwyEd-Va56hoidFMA _bGQG0MwyEd-Va56hoidFMA _8KQTQMwyEd-Va56hoidFMA" output="_E223AMwzEd-Va56hoidFMA">
+            <presentation xmi:id="-96hsS7-YiXBZhKt6lN_N7w" href="uma://-96hsS7-YiXBZhKt6lN_N7w#-96hsS7-YiXBZhKt6lN_N7w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2dNS0Mf-Ed-uaoHezqavZA" name="PM.1.8 Calculate and document the project Estimated Effort and Cost" guid="_2dNS0Mf-Ed-uaoHezqavZA" presentationName="PM.1.8 Calculate and document the project Estimated Effort and Cost." performedBy="_A69A4Mf7Ed-uaoHezqavZA" mandatoryInput="_E223AMwzEd-Va56hoidFMA _ob3dEMwyEd-Va56hoidFMA" output="_S4aGMMwzEd-Va56hoidFMA">
+            <presentation xmi:id="-uHnV8vqnv93_N_uUqCSEMg" href="uma://-uHnV8vqnv93_N_uUqCSEMg#-uHnV8vqnv93_N_uUqCSEMg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3ZYnMMf-Ed-uaoHezqavZA" name="PM.1.9 Identify and document the risks which may affect the project" guid="_3ZYnMMf-Ed-uaoHezqavZA" presentationName="PM.1.9 Identify and document the risks which may affect the project." performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="_8KQTQMwyEd-Va56hoidFMA _uwihIMwnEd-Va56hoidFMA _bGQG0MwyEd-Va56hoidFMA _S4aGMMwzEd-Va56hoidFMA _ob3dEMwyEd-Va56hoidFMA _E223AMwzEd-Va56hoidFMA _JWaA8MwyEd-Va56hoidFMA" output="_b4ZgAMwzEd-Va56hoidFMA">
+            <presentation xmi:id="-fzAdkxQ6cE5ytJuXYxzsYg" href="uma://-fzAdkxQ6cE5ytJuXYxzsYg#-fzAdkxQ6cE5ytJuXYxzsYg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4SA4UMf-Ed-uaoHezqavZA" name="PM.1.10 Document the Version Control Strategy in the Project Plan" guid="_4SA4UMf-Ed-uaoHezqavZA" presentationName="PM.1.10 Document the Version Control Strategy in the Project Plan." performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" output="_m6vzIMwzEd-Va56hoidFMA">
+            <presentation xmi:id="-Ts6N71OQwITCCe2VSY58ag" href="uma://-Ts6N71OQwITCCe2VSY58ag#-Ts6N71OQwITCCe2VSY58ag"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6RUdoMf-Ed-uaoHezqavZA" name="PM.1.11 Generate the Project Plan integrating the elements previously identified and documented" guid="_6RUdoMf-Ed-uaoHezqavZA" presentationName="PM.1.11 Generate the Project Plan integrating the elements previously identified and documented." performedBy="_A69A4Mf7Ed-uaoHezqavZA" mandatoryInput="_JWaA8MwyEd-Va56hoidFMA _bGQG0MwyEd-Va56hoidFMA _ob3dEMwyEd-Va56hoidFMA _8KQTQMwyEd-Va56hoidFMA _E223AMwzEd-Va56hoidFMA _S4aGMMwzEd-Va56hoidFMA _b4ZgAMwzEd-Va56hoidFMA _m6vzIMwzEd-Va56hoidFMA _uwihIMwnEd-Va56hoidFMA" output="__WLK0GTmEd-c05WD_Ii7zw">
+            <presentation xmi:id="-9Ps6MegtdjOh5WWvOk6PqA" href="uma://-9Ps6MegtdjOh5WWvOk6PqA#-9Ps6MegtdjOh5WWvOk6PqA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7GCfIMf-Ed-uaoHezqavZA" name="PM.1.12 Include product description, scope, objectives and deliverables in the Project Plan" guid="_7GCfIMf-Ed-uaoHezqavZA" presentationName="PM.1.12 Include product description, scope, objectives and deliverables in the Project Plan." performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="_yPSoQMf7Ed-uaoHezqavZA" output="__WLK0GTmEd-c05WD_Ii7zw">
+            <presentation xmi:id="-0pfUu3b5vUe6wdoIhbnGzA" href="uma://-0pfUu3b5vUe6wdoIhbnGzA#-0pfUu3b5vUe6wdoIhbnGzA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8oB2UMf-Ed-uaoHezqavZA" name="PM.1.13 Verify and obtain approval of the Project Plan" guid="_8oB2UMf-Ed-uaoHezqavZA" presentationName="PM.1.13 Verify and obtain approval of the Project Plan." performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="__WLK0GTmEd-c05WD_Ii7zw" output="__WLK0GTmEd-c05WD_Ii7zw _UBEQEGToEd-c05WD_Ii7zw">
+            <presentation xmi:id="-VSby2KlD7tadr-Yvvsf7sg" href="uma://-VSby2KlD7tadr-Yvvsf7sg#-VSby2KlD7tadr-Yvvsf7sg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9xR9YMf-Ed-uaoHezqavZA" name="PM.1.14 Review and accept the Project Plan" guid="_9xR9YMf-Ed-uaoHezqavZA" presentationName="PM.1.14 Review and accept the Project Plan." briefDescription="Customer reviews and accepts the Project Plan, making sure that the Project Plan elements match with the Statement of Work." performedBy="_A69A4Mf7Ed-uaoHezqavZA _aL9gMMf9Ed-uaoHezqavZA" mandatoryInput="__WLK0GTmEd-c05WD_Ii7zw" output="_eHk9AMgEEd-uaoHezqavZA __WLK0GTmEd-c05WD_Ii7zw">
+            <presentation xmi:id="-e_6p-d7bfNo4vRwIHls5Pg" href="uma://-e_6p-d7bfNo4vRwIHls5Pg#-e_6p-d7bfNo4vRwIHls5Pg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-5lCMMf-Ed-uaoHezqavZA" name="PM.1.15 Establish the project repository using the Version Control Strategy" guid="_-5lCMMf-Ed-uaoHezqavZA" presentationName="PM.1.15 Establish the project repository using the Version Control Strategy. " performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="_m6vzIMwzEd-Va56hoidFMA" output="_gSJ-MMgEEd-uaoHezqavZA">
+            <presentation xmi:id="-yR1Z_upZ4PXQs9G3Vl0GpA" href="uma://-yR1Z_upZ4PXQs9G3Vl0GpA#-yR1Z_upZ4PXQs9G3Vl0GpA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_eHk9AMgEEd-uaoHezqavZA" name="Meeting Record" guid="_eHk9AMgEEd-uaoHezqavZA" presentationName="Meeting Record">
+            <presentation xmi:id="--itNbU7rXd47lUeiFPaKnA" href="uma://--itNbU7rXd47lUeiFPaKnA#--itNbU7rXd47lUeiFPaKnA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_gSJ-MMgEEd-uaoHezqavZA" name="Project Repository" guid="_gSJ-MMgEEd-uaoHezqavZA" presentationName="Project Repository">
+            <presentation xmi:id="-pQtYHVtnya5u1kIrW40wdQ" href="uma://-pQtYHVtnya5u1kIrW40wdQ#-pQtYHVtnya5u1kIrW40wdQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9x1KcMgTEd-uaoHezqavZA" name="PM.2.1 Monitor the Project Plan execution" guid="_9x1KcMgTEd-uaoHezqavZA" presentationName="PM.2.1 Monitor the Project Plan execution" briefDescription="Monitor the Project Plan execution and record actual data in Progress Status Record. " performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw _Va01AMgUEd-uaoHezqavZA" mandatoryInput="__WLK0GTmEd-c05WD_Ii7zw" output="_77X2wMghEd-_5sDuB6Asjg">
+            <presentation xmi:id="-lnPLW6L0nt9wncMFConrZQ" href="uma://-lnPLW6L0nt9wncMFConrZQ#-lnPLW6L0nt9wncMFConrZQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Ae_UQMgUEd-uaoHezqavZA" name="PM.2.2 Analyse and evaluate the Change Request" guid="_Ae_UQMgUEd-uaoHezqavZA" presentationName="PM 2.2 Analyse and evaluate the Change Request " briefDescription="Analyse and evaluate the Change Request for cost, schedule and technical impact. " performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="_bYo6kGToEd-c05WD_Ii7zw __WLK0GTmEd-c05WD_Ii7zw" output="_bYo6kGToEd-c05WD_Ii7zw __WLK0GTmEd-c05WD_Ii7zw">
+            <presentation xmi:id="-hUNNCqrVunU-aMg1t9zs3w" href="uma://-hUNNCqrVunU-aMg1t9zs3w#-hUNNCqrVunU-aMg1t9zs3w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Bo0DEMgUEd-uaoHezqavZA" name="PM.2.3 Conduct revision meetings with the Work Team" guid="_Bo0DEMgUEd-uaoHezqavZA" presentationName="PM.2.3 Conduct revision meetings with the Work Team" briefDescription="Conduct revision meetings with the Work Team, identify problems, review risk status, record agreements and track them to closure" performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw _Va01AMgUEd-uaoHezqavZA" mandatoryInput="__WLK0GTmEd-c05WD_Ii7zw _eHk9AMgEEd-uaoHezqavZA _77X2wMghEd-_5sDuB6Asjg _oml98MgiEd-_5sDuB6Asjg" output="_eHk9AMgEEd-uaoHezqavZA">
+            <presentation xmi:id="-cett-_KQ4Xsj1k2zHJ8AiA" href="uma://-cett-_KQ4Xsj1k2zHJ8AiA#-cett-_KQ4Xsj1k2zHJ8AiA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DrRDAMgUEd-uaoHezqavZA" name="PM.2.4 Conduct revision meetings with the Customer" guid="_DrRDAMgUEd-uaoHezqavZA" presentationName="PM.2.4 Conduct revision meetings with the Customer" briefDescription="Conduct revision meetings with the Customer,record agreements and track them to closure. &#xD;&#xA; " performedBy="_A69A4Mf7Ed-uaoHezqavZA _aL9gMMf9Ed-uaoHezqavZA _Va01AMgUEd-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw" mandatoryInput="__WLK0GTmEd-c05WD_Ii7zw _bYo6kGToEd-c05WD_Ii7zw _eHk9AMgEEd-uaoHezqavZA _77X2wMghEd-_5sDuB6Asjg" output="_bYo6kGToEd-c05WD_Ii7zw _eHk9AMgEEd-uaoHezqavZA __WLK0GTmEd-c05WD_Ii7zw">
+            <presentation xmi:id="-9NBZ7Izaj6a5hCKFfv1g6Q" href="uma://-9NBZ7Izaj6a5hCKFfv1g6Q#-9NBZ7Izaj6a5hCKFfv1g6Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_E6J4AMgUEd-uaoHezqavZA" name="PM.2.5 Perform backup" guid="_E6J4AMgUEd-uaoHezqavZA" presentationName="PM.2.5 Perform backup " briefDescription="Perform backup according to the Version Control Strategy." performedBy="_A69A4Mf7Ed-uaoHezqavZA" mandatoryInput="_m6vzIMwzEd-Va56hoidFMA" output="_gSJ-MMgEEd-uaoHezqavZA">
+            <presentation xmi:id="-M24oUekjTXRMKY-bYP0V9Q" href="uma://-M24oUekjTXRMKY-bYP0V9Q#-M24oUekjTXRMKY-bYP0V9Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GL6a0MgUEd-uaoHezqavZA" name="PM.2.6 Perform Project Repository recovery" guid="_GL6a0MgUEd-uaoHezqavZA" presentationName="PM.2.6 Perform Project Repository recovery " briefDescription="Perform Project Repository recovery using the Project Repository Backup, if necessary." performedBy="_A69A4Mf7Ed-uaoHezqavZA" mandatoryInput="_gSJ-MMgEEd-uaoHezqavZA" output="_gSJ-MMgEEd-uaoHezqavZA">
+            <presentation xmi:id="-ucmQRc97VFZNYBRehlLbGA" href="uma://-ucmQRc97VFZNYBRehlLbGA#-ucmQRc97VFZNYBRehlLbGA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Va01AMgUEd-uaoHezqavZA" name="Work Team" guid="_Va01AMgUEd-uaoHezqavZA" presentationName="Work Team">
+            <presentation xmi:id="-3X_VyfJT9OgjpDrzoeTgxw" href="uma://-3X_VyfJT9OgjpDrzoeTgxw#-3X_VyfJT9OgjpDrzoeTgxw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BMuVQMgaEd-_5sDuB6Asjg" name="PM.3.1 Evaluate project progress" guid="_BMuVQMgaEd-_5sDuB6Asjg" presentationName="PM.3.1 Evaluate project progress " briefDescription="Evaluate project progress with respect to the Project Plan." performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw _Va01AMgUEd-uaoHezqavZA" mandatoryInput="__WLK0GTmEd-c05WD_Ii7zw _77X2wMghEd-_5sDuB6Asjg" output="_77X2wMghEd-_5sDuB6Asjg">
+            <presentation xmi:id="-le3Jm-ckbHiZUOaGUKZvmA" href="uma://-le3Jm-ckbHiZUOaGUKZvmA#-le3Jm-ckbHiZUOaGUKZvmA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_D19oYMgaEd-_5sDuB6Asjg" name="PM.3.2 Establish actions to correct deviations" guid="_D19oYMgaEd-_5sDuB6Asjg" presentationName="PM.3.2 Establish actions to correct deviations " briefDescription="Establish actions to correct deviations or problems and identified risks concerning the accomplishment of the plan, as needed, document them in Correction Register and track them to closure." performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw _Va01AMgUEd-uaoHezqavZA" mandatoryInput="_77X2wMghEd-_5sDuB6Asjg" output="_oml98MgiEd-_5sDuB6Asjg">
+            <presentation xmi:id="-F_8ruVziGvvStZMaiV_l5g" href="uma://-F_8ruVziGvvStZMaiV_l5g#-F_8ruVziGvvStZMaiV_l5g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_FGFzgMgaEd-_5sDuB6Asjg" name="PM.3.3 Identify changes to requirements" guid="_FGFzgMgaEd-_5sDuB6Asjg" presentationName="PM.3.3 Identify changes to requirements and/or Project Plan " briefDescription="Identify changes to requirements and/or Project Plan to address major deviations, potential risks or problems concerning the accomplishment of the plan, document them in Change Request and track them to closure." performedBy="_A69A4Mf7Ed-uaoHezqavZA _Afx3oGRtEd-c05WD_Ii7zw _Va01AMgUEd-uaoHezqavZA" mandatoryInput="_77X2wMghEd-_5sDuB6Asjg" output="_bYo6kGToEd-c05WD_Ii7zw">
+            <presentation xmi:id="-ggMT59RJ6Tp6mMijZzGhag" href="uma://-ggMT59RJ6Tp6mMijZzGhag#-ggMT59RJ6Tp6mMijZzGhag"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_H16PwMgaEd-_5sDuB6Asjg" name="PM.4.1. Formalize the completion of the project" guid="_H16PwMgaEd-_5sDuB6Asjg" presentationName="PM.4.1. Formalize the completion of the project " briefDescription="Formalize the completion of the project according to the Delivery Instructions established in the Project Plan, providing acceptance support and getting the Acceptance Record signed." performedBy="_A69A4Mf7Ed-uaoHezqavZA _aL9gMMf9Ed-uaoHezqavZA" mandatoryInput="_M5iP4GTsEd-c05WD_Ii7zw __WLK0GTmEd-c05WD_Ii7zw" output="_M5iP4GTsEd-c05WD_Ii7zw _xpRC4MgjEd-_5sDuB6Asjg">
+            <presentation xmi:id="-buXCQGFTmxB1Q8ruRUUT7w" href="uma://-buXCQGFTmxB1Q8ruRUUT7w#-buXCQGFTmxB1Q8ruRUUT7w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_JCILQMgaEd-_5sDuB6Asjg" name="PM.4.2 Update Project Repository" guid="_JCILQMgaEd-_5sDuB6Asjg" presentationName="PM.4.2 Update Project Repository. " performedBy="_A69A4Mf7Ed-uaoHezqavZA" mandatoryInput="_gSJ-MMgEEd-uaoHezqavZA _M5iP4GTsEd-c05WD_Ii7zw" output="_gSJ-MMgEEd-uaoHezqavZA">
+            <presentation xmi:id="-6DNJ8pPaT9q0PafCf5CqsQ" href="uma://-6DNJ8pPaT9q0PafCf5CqsQ#-6DNJ8pPaT9q0PafCf5CqsQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yfe2AMgfEd-_5sDuB6Asjg" name="VR" guid="_yfe2AMgfEd-_5sDuB6Asjg">
+            <presentation xmi:id="-b-xVDfbvewbR283SikG6dA" href="uma://-b-xVDfbvewbR283SikG6dA#-b-xVDfbvewbR283SikG6dA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_77X2wMghEd-_5sDuB6Asjg" name="Progress Status Record" guid="_77X2wMghEd-_5sDuB6Asjg" presentationName="Progress Status Record">
+            <presentation xmi:id="-tm2o2q6GX0hSU60RMBdbkQ" href="uma://-tm2o2q6GX0hSU60RMBdbkQ#-tm2o2q6GX0hSU60RMBdbkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_oml98MgiEd-_5sDuB6Asjg" name="Correction Register" guid="_oml98MgiEd-_5sDuB6Asjg" presentationName="Correction Register">
+            <presentation xmi:id="-l3af1BaKlLpO6h3eBUmAwg" href="uma://-l3af1BaKlLpO6h3eBUmAwg#-l3af1BaKlLpO6h3eBUmAwg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xpRC4MgjEd-_5sDuB6Asjg" name="Acceptance Record" guid="_xpRC4MgjEd-_5sDuB6Asjg" presentationName="Acceptance Record">
+            <presentation xmi:id="-CuJR7ytQTyCYbfyd-WV-PA" href="uma://-CuJR7ytQTyCYbfyd-WV-PA#-CuJR7ytQTyCYbfyd-WV-PA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4SqG0MglEd-_5sDuB6Asjg" name="new_artifact" guid="_4SqG0MglEd-_5sDuB6Asjg" presentationName="New Artifact"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_AF9rEMgmEd-_5sDuB6Asjg" name="Objectives" guid="_AF9rEMgmEd-_5sDuB6Asjg" presentationName="Objectives">
+            <presentation xmi:id="-dg1tBOOUyt3n1oUMd1DrBA" href="uma://-dg1tBOOUyt3n1oUMd1DrBA#-dg1tBOOUyt3n1oUMd1DrBA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_IDIkwMw-Ed-Va56hoidFMA" name="new_concept" guid="_IDIkwMw-Ed-Va56hoidFMA" presentationName="New Concept"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_naFZ0OjXEeidu84t4S4yTg" name="copyright" guid="_naFZ0OjXEeidu84t4S4yTg" presentationName="Copyright" briefDescription="All the contents, published web and library sources, are licensed under the MIT license." shapeicon="guidances/supportingmaterials/resources/Opensource.svg-170.png" nodeicon="guidances/supportingmaterials/resources/Opensource.svg-16.png">
+            <methodElementProperty xmi:id="_F-KAIOjYEeidu84t4S4yTg" name="me_edited" value="true"/>
+            <presentation xmi:id="-QjLRRfGc5FdC0i8VPPNHRw" href="uma://-QjLRRfGc5FdC0i8VPPNHRw#-QjLRRfGc5FdC0i8VPPNHRw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_A5cbDOjWEeiFlvfecf-t4w" name="CapabilityPatterns" guid="_A5cbDOjWEeiFlvfecf-t4w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_A5cbDejWEeiFlvfecf-t4w" name="DeliveryProcesses" guid="_A5cbDejWEeiFlvfecf-t4w"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_A5cbDujWEeiFlvfecf-t4w" name="ProcessContributions" guid="_A5cbDujWEeiFlvfecf-t4w"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

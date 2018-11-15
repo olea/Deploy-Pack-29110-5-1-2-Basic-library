@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nMl4nVasgg--bwFlBUyZ8Q" name="new_artifact,_bGQG0MwyEd-Va56hoidFMA" guid="-nMl4nVasgg--bwFlBUyZ8Q" authors="Gloria Hernandez" changeDate="2010-09-30T03:32:23.000+0200" version="V.01">
+  <purpose>Estimated Duration of tasks</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

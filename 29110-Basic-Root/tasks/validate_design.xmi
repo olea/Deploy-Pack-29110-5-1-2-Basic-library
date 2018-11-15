@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-688oC4epuYUXSLpoYM9Jow" name="validate_design,_8I_AoGTnEd-c05WD_Ii7zw" guid="-688oC4epuYUXSLpoYM9Jow">
+  <mainDescription>Verify correctness of Software Design documentation, its feasibility and consistency with their Requirement Specification.
+Verify that the Traceability Record contains the adequate relationships between requirements and the Software Design
+elements. The results found are documented in a Verification Results and corrections are made until the document is
+approved by AN.&amp;nbsp; If significant changes were needed, initiate a Change Request.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

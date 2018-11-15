@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2WYHNwOUz2kpJNFdxKnEdw" name="validate_tests,_98Hq0GTqEd-c05WD_Ii7zw" guid="-2WYHNwOUz2kpJNFdxKnEdw">
+  <sections xmi:id="_yHCuM6WsEd-RtoSDv1JIuQ" name="Verify consistency among Requirements Specification, Software Design and Test Cases and Test Procedures" guid="_yHCuM6WsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yHCuMqWsEd-RtoSDv1JIuQ" name="Document the results found in a Verification Results " guid="_yHCuMqWsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yHCuMaWsEd-RtoSDv1JIuQ" name="Correct errors until the document is approved by Analyst (AN)." guid="_yHCuMaWsEd-RtoSDv1JIuQ"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fyBgAZ-RmqI-Nw85_rDkrw" name="understand_requirements,_Z9fAoGTnEd-c05WD_Ii7zw" guid="-fyBgAZ-RmqI-Nw85_rDkrw">
+  <sections xmi:id="_yHA5AKWsEd-RtoSDv1JIuQ" name="Examine each requirement and ensure they are understood" guid="_yHA5AKWsEd-RtoSDv1JIuQ">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../29110_Basic/roles/designer_E79E6829.html&quot;&#xD;
+        guid=&quot;_kqbdAGROEd-Xz6JKIpjvlQ&quot;>Designer (DES)&lt;/a>&amp;nbsp;groups functional requirements in logical groups.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../29110_Basic/roles/designer_E79E6829.html&quot;&#xD;
+        guid=&quot;_kqbdAGROEd-Xz6JKIpjvlQ&quot;>Designer (DES)&lt;/a>&amp;nbsp;groups non-functional requirements in groups.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../29110_Basic/roles/analyst_8BC5F01F.html&quot;&#xD;
+        guid=&quot;_5l9gIGRsEd-c05WD_Ii7zw&quot;>Analyst (AN)&lt;/a>&amp;nbsp;verifies &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../29110_Basic/roles/designer_E79E6829.html&quot; guid=&quot;_kqbdAGROEd-Xz6JKIpjvlQ&quot;>Designer&#xD;
+        (DES)&lt;/a>&amp;nbsp;groups and checks if all requirements are understood.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

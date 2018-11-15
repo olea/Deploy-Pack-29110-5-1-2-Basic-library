@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xNtETORmmqeoHq9zbZJXcg" name="new_term_definition,_oKbDwJkZEd-a3JTyt2HX_w" guid="-xNtETORmmqeoHq9zbZJXcg" changeDate="2010-07-27T02:56:52.000+0200">
+  <mainDescription>1. the process of defining a collection of hardware and software components and their interfaces to establish the framework
+for the development of a computer system 2. the result of defining a collection of hardware and software components and
+their interfaces to establish the framework for the development of a computer system. [&lt;a class=&quot;elementLinkWithUserText&quot;
+href=&quot;./../../../29110-5-1-2-Design/guidances/supportingmaterials/references_81FBB521.html&quot; target=&quot;_blank&quot;
+guid=&quot;_CsldwKWlEd-KHK2XNr05lQ&quot;>ISO/IEC 24765&lt;/a>]</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

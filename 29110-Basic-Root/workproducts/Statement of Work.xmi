@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-w1u5BDt07qqG5V2LIorqeg" name=",_yPSoQMf7Ed-uaoHezqavZA" guid="-w1u5BDt07qqG5V2LIorqeg" authors="Gloria Hernandez" changeDate="2010-09-24T06:52:42.000+0200" version="V.01">
+  <mainDescription>&lt;p>
+    It may Include:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Product Description
+    &lt;/li>
+    &lt;li>
+        Purpose
+    &lt;/li>
+    &lt;li>
+        General Customer requirements
+    &lt;/li>
+    &lt;li>
+        Scope description of what is included and what is not
+    &lt;/li>
+    &lt;li>
+        Objectives of the project
+    &lt;/li>
+    &lt;li>
+        Deliverables list of products to be delivered to Customer
+    &lt;/li>
+&lt;/ul>
+&lt;br /></mainDescription>
+  <keyConsiderations>&lt;p>
+    The applicable status is: reviewed.&lt;br />
+&lt;/p></keyConsiderations>
+  <purpose>Description of work to be done related to software development.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7Gsub7ZiILxO8FhiheVKkw" name="PM.4 Project Closure,_TWYekMf0Ed-uaoHezqavZA" guid="-7Gsub7ZiILxO8FhiheVKkw" authors="Gloria Hernandez" changeDate="2010-09-24T06:08:05.000+0200" version="V.01">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>The activity provides:&lt;/span>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Delivery of the product as specified in the &lt;i
+            style=&quot;mso-bidi-font-style: normal&quot;>Delivery Instructions.&lt;/i>&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Support of Customer product acceptance in accordance to &lt;i
+            style=&quot;mso-bidi-font-style: normal&quot;>Delivery Instructions&lt;/i>.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>Completion of the project and sign of the &lt;i
+            style=&quot;mso-bidi-font-style: normal&quot;>Acceptance Record.&lt;/i>&lt;/span>
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

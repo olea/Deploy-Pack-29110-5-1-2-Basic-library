@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DLwPNsE3KPd0t5VSnUI4uw" name="Customer,_aL9gMMf9Ed-uaoHezqavZA" guid="-DLwPNsE3KPd0t5VSnUI4uw" authors="Gloria Hernandez" changeDate="2010-09-24T06:47:15.000+0200">
+  <skills>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot;&#xD;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&#xD;
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Knowledge of the Customer&#xD;
+            processes and ability to explain the Customer requirements.&lt;/span>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot;&#xD;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&#xD;
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>The Customer (representative)&#xD;
+            must have the authority to approve the requirements and their changes.&lt;/span>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot;&#xD;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&#xD;
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB&quot;>The Customer includes user representatives in order to&#xD;
+            ensure that the operational environment is addressed.&lt;/span>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot;&#xD;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&#xD;
+            &lt;span lang=&quot;EN-GB&quot;&#xD;
+            style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN-GB; mso-fareast-font-family: 'MS Mincho'; mso-fareast-language: JA; mso-bidi-language: AR-SA; mso-bidi-font-weight: bold&quot;>&#xD;
+            Knowledge and experience in the application domain.&lt;/span>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+  <synonyms>CUS</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

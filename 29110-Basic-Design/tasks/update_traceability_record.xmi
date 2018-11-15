@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HjXDtdgUa8eW_kFp_VCesQ" name="update_traceability_record,_cuz78GTrEd-c05WD_Ii7zw" guid="-HjXDtdgUa8eW_kFp_VCesQ">
+  <sections xmi:id="_yHBgFKWsEd-RtoSDv1JIuQ" name="Update the Traceability Record with the new test procedures" guid="_yHBgFKWsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yHBgEaWsEd-RtoSDv1JIuQ" name="Verify that every design and test element can be traced to a requirement" guid="_yHBgEaWsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yHBgE6WsEd-RtoSDv1JIuQ" name="Verify that every requirement is represented in design" guid="_yHBgE6WsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yHBgEqWsEd-RtoSDv1JIuQ" name="Verify that every requirement is represented in testing" guid="_yHBgEqWsEd-RtoSDv1JIuQ"/>
+</org.eclipse.epf.uma:TaskDescription>

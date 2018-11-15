@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3X_VyfJT9OgjpDrzoeTgxw" name="Work Team,_Va01AMgUEd-uaoHezqavZA" guid="-3X_VyfJT9OgjpDrzoeTgxw" authors="Gloria Hernandez" changeDate="2010-09-24T06:47:15.000+0200">
+  <skills>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot;&#xD;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&#xD;
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Knowledge and experience&#xD;
+            according to their roles on the project: TL, AN, DES, and/or PR.&lt;/span>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot;&#xD;
+        style=&quot;MARGIN: 0in 0in 12pt; mso-pagination: none; tab-stops: 21.25pt 35.45pt 70.9pt 85.05pt&quot;>&#xD;
+            &lt;span lang=&quot;EN-GB&quot;&#xD;
+            style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>&#xD;
+            Knowledge on the standards used by the Client and/or by the VSE.&lt;/span>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+  <synonyms>&lt;p>&#xD;
+    WT&#xD;
+&lt;/p></synonyms>
+</org.eclipse.epf.uma:RoleDescription>

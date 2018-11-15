@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_A6kcYOjWEeiFlvfecf-t4w" guid="_A6kcYOjWEeiFlvfecf-t4w">
+    <resourceDescriptors xmi:id="_BB4lUOjWEeiFlvfecf-t4w" id="-GS3rtrveF8HfmJ6ep240Ag" uri="guidances/supportingmaterials/references.xmi"/>
+    <resourceDescriptors xmi:id="_BB6agOjWEeiFlvfecf-t4w" id="-ql0VKllkw5g9f6Gy4hY5Og" uri="guidances/supportingmaterials/welcome.xmi"/>
+    <resourceDescriptors xmi:id="_BB7ooOjWEeiFlvfecf-t4w" id="-S5FNB9Ox8gx3Iw64BAJ67w" uri="guidances/checklists/design_checklist.xmi"/>
+    <resourceDescriptors xmi:id="_BB-E4OjWEeiFlvfecf-t4w" id="-ukxxKUnK73KG1PrYx8Kn9g" uri="guidances/templates/design_template.xmi"/>
+    <resourceDescriptors xmi:id="_BB_6EOjWEeiFlvfecf-t4w" id="-xNtETORmmqeoHq9zbZJXcg" uri="guidances/termdefinitions/architectural_design.xmi"/>
+    <resourceDescriptors xmi:id="_BCAhIOjWEeiFlvfecf-t4w" id="-DT7-8qUCfElRpglgzu1hwQ" uri="guidances/termdefinitions/architectural_mechanism.xmi"/>
+    <resourceDescriptors xmi:id="_BCBvQOjWEeiFlvfecf-t4w" id="-3_8edjqGeGvOMyqJ-ftjcA" uri="guidances/termdefinitions/baseline.xmi"/>
+    <resourceDescriptors xmi:id="_BCCWUOjWEeiFlvfecf-t4w" id="-O5eRP1jeZddzwCB6_ausWA" uri="guidances/termdefinitions/component.xmi"/>
+    <resourceDescriptors xmi:id="_BCELgOjWEeiFlvfecf-t4w" id="-gtJv-od8WVtrUn0oTl5w0g" uri="guidances/termdefinitions/customer.xmi"/>
+    <resourceDescriptors xmi:id="_BCJrEOjWEeiFlvfecf-t4w" id="-kX29E0DXIGMdD3MuJmGXbA" uri="guidances/termdefinitions/design_concern.xmi"/>
+    <resourceDescriptors xmi:id="_BCKSIOjWEeiFlvfecf-t4w" id="-jNhY2N8QsvLU-Mny1Qr3Vg" uri="guidances/termdefinitions/detailed_design.xmi"/>
+    <resourceDescriptors xmi:id="_BCLgQOjWEeiFlvfecf-t4w" id="-XuMvkIhzCnqIOHXQp5gYtg" uri="guidances/termdefinitions/functional_requirement.xmi"/>
+    <resourceDescriptors xmi:id="_BCMuYOjWEeiFlvfecf-t4w" id="-jpKyWxfVgX12OQInI0JS1A" uri="guidances/termdefinitions/module.xmi"/>
+    <resourceDescriptors xmi:id="_BCS1AOjWEeiFlvfecf-t4w" id="-fYjWANcBbHkFE6mLRUxAtA" uri="guidances/termdefinitions/nonfunctional_requirement.xmi"/>
+    <resourceDescriptors xmi:id="_BCUDIOjWEeiFlvfecf-t4w" id="-zmWNJplyj1gAr_iRLdrm4w" uri="guidances/termdefinitions/software_architecture.xmi"/>
+    <resourceDescriptors xmi:id="_BCVRQOjWEeiFlvfecf-t4w" id="-kjZc5LZpc5j4szSnQEZIdA" uri="guidances/termdefinitions/software_design.xmi"/>
+    <resourceDescriptors xmi:id="_BCV4UOjWEeiFlvfecf-t4w" id="-UBPjdssNqaQpAlRIu0V90A" uri="guidances/termdefinitions/software_product.xmi"/>
+    <resourceDescriptors xmi:id="_BCXGcOjWEeiFlvfecf-t4w" id="-AHgE9cJM373mUiH4IXUGgQ" uri="guidances/termdefinitions/stakeholder.xmi"/>
+    <resourceDescriptors xmi:id="_BCY7oOjWEeiFlvfecf-t4w" id="-Blmg5evSZGAY9qrvkXtsxw" uri="guidances/termdefinitions/subsystem.xmi"/>
+    <resourceDescriptors xmi:id="_BCd0IOjWEeiFlvfecf-t4w" id="-j7IvHPDTfgS-xd8iXPo1IA" uri="guidances/termdefinitions/traceability_matrix.xmi"/>
+    <resourceDescriptors xmi:id="_BCfpUOjWEeiFlvfecf-t4w" id="-mf9IzfMTp6hfT0t-aKEr5g" uri="guidances/termdefinitions/traceable.xmi"/>
+    <resourceDescriptors xmi:id="_BCg3cOjWEeiFlvfecf-t4w" id="-6mvn2aNJubcRfuqZcBVpNQ" uri="guidances/termdefinitions/validation.xmi"/>
+    <resourceDescriptors xmi:id="_BChegOjWEeiFlvfecf-t4w" id="-iX0kaR2rsfCp9QgO8ujJOA" uri="guidances/termdefinitions/verification.xmi"/>
+    <resourceDescriptors xmi:id="_BCmXAOjWEeiFlvfecf-t4w" id="-kEDnJ_JfwmgRzxsJ364KqA" uri="guidances/termdefinitions/view.xmi"/>
+    <resourceDescriptors xmi:id="_BCoMMOjWEeiFlvfecf-t4w" id="-RLrmGuOsA2tDbq_Xk3PidA" uri="tasks/assign_tasks.xmi"/>
+    <resourceDescriptors xmi:id="_BCpaUOjWEeiFlvfecf-t4w" id="-kYoZJ8bSZ3WFWM2pCH2sRw" uri="tasks/document_software_design.xmi"/>
+    <resourceDescriptors xmi:id="_BCqocOjWEeiFlvfecf-t4w" id="-PpedCiIEPtjzQF_RnZCODA" uri="tasks/tests.xmi"/>
+    <resourceDescriptors xmi:id="_BCrPgOjWEeiFlvfecf-t4w" id="-fyBgAZ-RmqI-Nw85_rDkrw" uri="tasks/understand_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_BCsdoOjWEeiFlvfecf-t4w" id="-Ts5nne8i-IQR3ZpMzDB0qw" uri="tasks/update_software_configuration.xmi"/>
+    <resourceDescriptors xmi:id="_BCuS0OjWEeiFlvfecf-t4w" id="-HjXDtdgUa8eW_kFp_VCesQ" uri="tasks/update_traceability_record.xmi"/>
+    <resourceDescriptors xmi:id="_BCwvEOjWEeiFlvfecf-t4w" id="-16DTcEsY7Tlklz5e-DAz3Q" uri="tasks/validate_design.xmi"/>
+    <resourceDescriptors xmi:id="_BCx9MOjWEeiFlvfecf-t4w" id="-2WYHNwOUz2kpJNFdxKnEdw" uri="tasks/validate_tests.xmi"/>
+    <resourceDescriptors xmi:id="_BCykQOjWEeiFlvfecf-t4w" id="-X8OxFc000VHMPE87fB1W9A" uri="guidances/supportingmaterials/design_dp_intro.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_2IqqMKWkEd-KHK2XNr05lQ" name="29110-Basic-Design" guid="_2IqqMKWkEd-KHK2XNr05lQ" authors="Roger Champagne " changeDate="2018-11-15T14:15:03.862+0100">
+    <methodElementProperty xmi:id="_A6kcYujWEeiFlvfecf-t4w" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_dz2p8OjYEeiY2K1_DP-QwQ" name="me_edited" value="true"/>
+    <copyrightStatement href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_naFZ0OjXEeidu84t4S4yTg"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A6gK8OjWEeiFlvfecf-t4w" name="Content" guid="_A6gK8OjWEeiFlvfecf-t4w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A6gK8ejWEeiFlvfecf-t4w" name="Categories" guid="_A6gK8ejWEeiFlvfecf-t4w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A6gK8ujWEeiFlvfecf-t4w" name="Domains" guid="_A6gK8ujWEeiFlvfecf-t4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A6gK8-jWEeiFlvfecf-t4w" name="Disciplines" guid="_A6gK8-jWEeiFlvfecf-t4w">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_H0QhMKWwEd-RtoSDv1JIuQ" name="design" guid="_H0QhMKWwEd-RtoSDv1JIuQ" variabilityType="contributes">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_6plx0GTkEd-c05WD_Ii7zw"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A6gK9OjWEeiFlvfecf-t4w" name="RoleSets" guid="_A6gK9OjWEeiFlvfecf-t4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A6gK9ejWEeiFlvfecf-t4w" name="WP Types" guid="_A6gK9ejWEeiFlvfecf-t4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A6gK9ujWEeiFlvfecf-t4w" name="Tools" guid="_A6gK9ujWEeiFlvfecf-t4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A6gK9-jWEeiFlvfecf-t4w" name="StandardCategories" guid="_A6gK9-jWEeiFlvfecf-t4w"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A6gK-OjWEeiFlvfecf-t4w" name="CustomCategories" guid="_A6gK-OjWEeiFlvfecf-t4w">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A6gK-ejWEeiFlvfecf-t4w" name="Hidden" guid="_A6gK-ejWEeiFlvfecf-t4w">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_A6gK-ujWEeiFlvfecf-t4w" name="Custom Categories" guid="_A6gK-ujWEeiFlvfecf-t4w" categorizedElements="_0ouD8KWwEd-RtoSDv1JIuQ _cuQ5IKW0Ed-RtoSDv1JIuQ _E6WikKW1Ed-RtoSDv1JIuQ _Mw3L0KW1Ed-RtoSDv1JIuQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_0ouD8KWwEd-RtoSDv1JIuQ" name="tasks" guid="_0ouD8KWwEd-RtoSDv1JIuQ" variabilityType="contributes" categorizedElements="_yG_D0KWsEd-RtoSDv1JIuQ _yG_q4KWsEd-RtoSDv1JIuQ _yHAR8KWsEd-RtoSDv1JIuQ _yHAR86WsEd-RtoSDv1JIuQ _yHA5AaWsEd-RtoSDv1JIuQ _yHBgEKWsEd-RtoSDv1JIuQ _yHCHIKWsEd-RtoSDv1JIuQ _yHCuMKWsEd-RtoSDv1JIuQ">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_afxEwGTbEd-c05WD_Ii7zw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_cuQ5IKW0Ed-RtoSDv1JIuQ" name="products" guid="_cuQ5IKW0Ed-RtoSDv1JIuQ" variabilityType="contributes" categorizedElements="_RdqHkKW0Ed-RtoSDv1JIuQ">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_zKH7IGTaEd-c05WD_Ii7zw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_E6WikKW1Ed-RtoSDv1JIuQ" name="checklists" guid="_E6WikKW1Ed-RtoSDv1JIuQ" variabilityType="contributes" categorizedElements="_GYB0wqWlEd-KHK2XNr05lQ">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_n7sQUKWzEd-RtoSDv1JIuQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Mw3L0KW1Ed-RtoSDv1JIuQ" name="templates" guid="_Mw3L0KW1Ed-RtoSDv1JIuQ" variabilityType="contributes" categorizedElements="_GYDC7aWlEd-KHK2XNr05lQ">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_wnJkkKWzEd-RtoSDv1JIuQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_A6gK--jWEeiFlvfecf-t4w" name="CoreContent" guid="_A6gK--jWEeiFlvfecf-t4w">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_478qIKWkEd-KHK2XNr05lQ" name="29110_basic_design" guid="_478qIKWkEd-KHK2XNr05lQ" presentationName="29110 (Basic) - Design">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_GYB0wKWlEd-KHK2XNr05lQ" name="references" guid="_GYB0wKWlEd-KHK2XNr05lQ" variabilityType="contributes">
+            <presentation xmi:id="-GS3rtrveF8HfmJ6ep240Ag" href="uma://-GS3rtrveF8HfmJ6ep240Ag#-GS3rtrveF8HfmJ6ep240Ag"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:SupportingMaterial" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_1ftBMKWuEd-RtoSDv1JIuQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_GYB0waWlEd-KHK2XNr05lQ" name="welcome" guid="_GYB0waWlEd-KHK2XNr05lQ" shapeicon="guidances/supportingmaterials/resources/icon_introL.gif" nodeicon="guidances/supportingmaterials/resources/mic.gif" variabilityType="contributes">
+            <presentation xmi:id="-ql0VKllkw5g9f6Gy4hY5Og" href="uma://-ql0VKllkw5g9f6Gy4hY5Og#-ql0VKllkw5g9f6Gy4hY5Og"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:SupportingMaterial" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_XskIkKWuEd-RtoSDv1JIuQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_GYB0wqWlEd-KHK2XNr05lQ" name="design_checklist" guid="_GYB0wqWlEd-KHK2XNr05lQ" presentationName="Software Design checklist" briefDescription="A checklist for design verification.">
+            <presentation xmi:id="-S5FNB9Ox8gx3Iw64BAJ67w" href="uma://-S5FNB9Ox8gx3Iw64BAJ67w#-S5FNB9Ox8gx3Iw64BAJ67w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_GYDC7aWlEd-KHK2XNr05lQ" name="design_template" guid="_GYDC7aWlEd-KHK2XNr05lQ" presentationName="Software Design" briefDescription="Provides a sample Table of Contents for the Software Design work product.">
+            <presentation xmi:id="-ukxxKUnK73KG1PrYx8Kn9g" href="uma://-ukxxKUnK73KG1PrYx8Kn9g#-ukxxKUnK73KG1PrYx8Kn9g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYDC7qWlEd-KHK2XNr05lQ" name="architectural_design" guid="_GYDC7qWlEd-KHK2XNr05lQ" presentationName="Architectural design">
+            <presentation xmi:id="-xNtETORmmqeoHq9zbZJXcg" href="uma://-xNtETORmmqeoHq9zbZJXcg#-xNtETORmmqeoHq9zbZJXcg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYDp8KWlEd-KHK2XNr05lQ" name="architectural_mechanism" guid="_GYDp8KWlEd-KHK2XNr05lQ" presentationName="Architectural mechanisms">
+            <presentation xmi:id="-DT7-8qUCfElRpglgzu1hwQ" href="uma://-DT7-8qUCfElRpglgzu1hwQ#-DT7-8qUCfElRpglgzu1hwQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYDp8aWlEd-KHK2XNr05lQ" name="baseline" guid="_GYDp8aWlEd-KHK2XNr05lQ" presentationName="Baseline">
+            <presentation xmi:id="-3_8edjqGeGvOMyqJ-ftjcA" href="uma://-3_8edjqGeGvOMyqJ-ftjcA#-3_8edjqGeGvOMyqJ-ftjcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYDp8qWlEd-KHK2XNr05lQ" name="component" guid="_GYDp8qWlEd-KHK2XNr05lQ" presentationName="Component">
+            <presentation xmi:id="-O5eRP1jeZddzwCB6_ausWA" href="uma://-O5eRP1jeZddzwCB6_ausWA#-O5eRP1jeZddzwCB6_ausWA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYDp86WlEd-KHK2XNr05lQ" name="customer" guid="_GYDp86WlEd-KHK2XNr05lQ" presentationName="Customer">
+            <presentation xmi:id="-gtJv-od8WVtrUn0oTl5w0g" href="uma://-gtJv-od8WVtrUn0oTl5w0g#-gtJv-od8WVtrUn0oTl5w0g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYDp9KWlEd-KHK2XNr05lQ" name="design_concern" guid="_GYDp9KWlEd-KHK2XNr05lQ" presentationName="Design concern">
+            <presentation xmi:id="-kX29E0DXIGMdD3MuJmGXbA" href="uma://-kX29E0DXIGMdD3MuJmGXbA#-kX29E0DXIGMdD3MuJmGXbA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYDp9aWlEd-KHK2XNr05lQ" name="detailed_design" guid="_GYDp9aWlEd-KHK2XNr05lQ" presentationName="Detailed design">
+            <presentation xmi:id="-jNhY2N8QsvLU-Mny1Qr3Vg" href="uma://-jNhY2N8QsvLU-Mny1Qr3Vg#-jNhY2N8QsvLU-Mny1Qr3Vg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYDp9qWlEd-KHK2XNr05lQ" name="functional_requirement" guid="_GYDp9qWlEd-KHK2XNr05lQ" presentationName="Functional requirement">
+            <presentation xmi:id="-XuMvkIhzCnqIOHXQp5gYtg" href="uma://-XuMvkIhzCnqIOHXQp5gYtg#-XuMvkIhzCnqIOHXQp5gYtg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYERAKWlEd-KHK2XNr05lQ" name="module" guid="_GYERAKWlEd-KHK2XNr05lQ" presentationName="Module">
+            <presentation xmi:id="-jpKyWxfVgX12OQInI0JS1A" href="uma://-jpKyWxfVgX12OQInI0JS1A#-jpKyWxfVgX12OQInI0JS1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYERAaWlEd-KHK2XNr05lQ" name="nonfunctional_requirement" guid="_GYERAaWlEd-KHK2XNr05lQ" presentationName="Nonfunctional requirement">
+            <presentation xmi:id="-fYjWANcBbHkFE6mLRUxAtA" href="uma://-fYjWANcBbHkFE6mLRUxAtA#-fYjWANcBbHkFE6mLRUxAtA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYERAqWlEd-KHK2XNr05lQ" name="software_architecture" guid="_GYERAqWlEd-KHK2XNr05lQ" presentationName="Software architecture">
+            <presentation xmi:id="-zmWNJplyj1gAr_iRLdrm4w" href="uma://-zmWNJplyj1gAr_iRLdrm4w#-zmWNJplyj1gAr_iRLdrm4w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYERA6WlEd-KHK2XNr05lQ" name="software_design" guid="_GYERA6WlEd-KHK2XNr05lQ" presentationName="Software design">
+            <presentation xmi:id="-kjZc5LZpc5j4szSnQEZIdA" href="uma://-kjZc5LZpc5j4szSnQEZIdA#-kjZc5LZpc5j4szSnQEZIdA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYERBKWlEd-KHK2XNr05lQ" name="software_product" guid="_GYERBKWlEd-KHK2XNr05lQ" presentationName="Software product">
+            <presentation xmi:id="-UBPjdssNqaQpAlRIu0V90A" href="uma://-UBPjdssNqaQpAlRIu0V90A#-UBPjdssNqaQpAlRIu0V90A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYE4EKWlEd-KHK2XNr05lQ" name="stakeholder" guid="_GYE4EKWlEd-KHK2XNr05lQ" presentationName="Stakeholder">
+            <presentation xmi:id="-AHgE9cJM373mUiH4IXUGgQ" href="uma://-AHgE9cJM373mUiH4IXUGgQ#-AHgE9cJM373mUiH4IXUGgQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYE4EaWlEd-KHK2XNr05lQ" name="subsystem" guid="_GYE4EaWlEd-KHK2XNr05lQ" presentationName="Subsystem">
+            <presentation xmi:id="-Blmg5evSZGAY9qrvkXtsxw" href="uma://-Blmg5evSZGAY9qrvkXtsxw#-Blmg5evSZGAY9qrvkXtsxw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYE4EqWlEd-KHK2XNr05lQ" name="traceability_matrix" guid="_GYE4EqWlEd-KHK2XNr05lQ" presentationName="Traceability matrix">
+            <presentation xmi:id="-j7IvHPDTfgS-xd8iXPo1IA" href="uma://-j7IvHPDTfgS-xd8iXPo1IA#-j7IvHPDTfgS-xd8iXPo1IA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYE4E6WlEd-KHK2XNr05lQ" name="traceable" guid="_GYE4E6WlEd-KHK2XNr05lQ" presentationName="Traceable">
+            <presentation xmi:id="-mf9IzfMTp6hfT0t-aKEr5g" href="uma://-mf9IzfMTp6hfT0t-aKEr5g#-mf9IzfMTp6hfT0t-aKEr5g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYE4FKWlEd-KHK2XNr05lQ" name="validation" guid="_GYE4FKWlEd-KHK2XNr05lQ" presentationName="Validation">
+            <presentation xmi:id="-6mvn2aNJubcRfuqZcBVpNQ" href="uma://-6mvn2aNJubcRfuqZcBVpNQ#-6mvn2aNJubcRfuqZcBVpNQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYE4FaWlEd-KHK2XNr05lQ" name="verification" guid="_GYE4FaWlEd-KHK2XNr05lQ" presentationName="Verification">
+            <presentation xmi:id="-iX0kaR2rsfCp9QgO8ujJOA" href="uma://-iX0kaR2rsfCp9QgO8ujJOA#-iX0kaR2rsfCp9QgO8ujJOA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_GYFfIKWlEd-KHK2XNr05lQ" name="view" guid="_GYFfIKWlEd-KHK2XNr05lQ" presentationName="View">
+            <presentation xmi:id="-kEDnJ_JfwmgRzxsJ364KqA" href="uma://-kEDnJ_JfwmgRzxsJ364KqA#-kEDnJ_JfwmgRzxsJ364KqA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yG_D0KWsEd-RtoSDv1JIuQ" name="assign_tasks" guid="_yG_D0KWsEd-RtoSDv1JIuQ" variabilityType="contributes">
+            <presentation xmi:id="-RLrmGuOsA2tDbq_Xk3PidA" href="uma://-RLrmGuOsA2tDbq_Xk3PidA#-RLrmGuOsA2tDbq_Xk3PidA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_iM5ukGTmEd-c05WD_Ii7zw"/>
+            <performedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_Afx3oGRtEd-c05WD_Ii7zw"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#__WLK0GTmEd-c05WD_Ii7zw"/>
+            <additionallyPerformedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_5l9gIGRsEd-c05WD_Ii7zw"/>
+            <additionallyPerformedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_kqbdAGROEd-Xz6JKIpjvlQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yG_q4KWsEd-RtoSDv1JIuQ" name="document_software_design" guid="_yG_q4KWsEd-RtoSDv1JIuQ" variabilityType="contributes">
+            <presentation xmi:id="-kYoZJ8bSZ3WFWM2pCH2sRw" href="uma://-kYoZJ8bSZ3WFWM2pCH2sRw#-kYoZJ8bSZ3WFWM2pCH2sRw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_xi154GROEd-Xz6JKIpjvlQ"/>
+            <performedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_kqbdAGROEd-Xz6JKIpjvlQ"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_OoDMsGTXEd-c05WD_Ii7zw"/>
+            <output href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_rim1wGROEd-Xz6JKIpjvlQ"/>
+            <additionallyPerformedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_5l9gIGRsEd-c05WD_Ii7zw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yHAR8KWsEd-RtoSDv1JIuQ" name="tests" guid="_yHAR8KWsEd-RtoSDv1JIuQ" variabilityType="contributes">
+            <presentation xmi:id="-PpedCiIEPtjzQF_RnZCODA" href="uma://-PpedCiIEPtjzQF_RnZCODA#-PpedCiIEPtjzQF_RnZCODA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_x0F-gGTpEd-c05WD_Ii7zw"/>
+            <performedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_kqbdAGROEd-Xz6JKIpjvlQ"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_OoDMsGTXEd-c05WD_Ii7zw"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_rim1wGROEd-Xz6JKIpjvlQ"/>
+            <output href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_C7mSAGTqEd-c05WD_Ii7zw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yHAR86WsEd-RtoSDv1JIuQ" name="understand_requirements" guid="_yHAR86WsEd-RtoSDv1JIuQ" variabilityType="contributes">
+            <presentation xmi:id="-fyBgAZ-RmqI-Nw85_rDkrw" href="uma://-fyBgAZ-RmqI-Nw85_rDkrw#-fyBgAZ-RmqI-Nw85_rDkrw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_Z9fAoGTnEd-c05WD_Ii7zw"/>
+            <performedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_kqbdAGROEd-Xz6JKIpjvlQ"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_OoDMsGTXEd-c05WD_Ii7zw"/>
+            <additionallyPerformedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_5l9gIGRsEd-c05WD_Ii7zw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yHA5AaWsEd-RtoSDv1JIuQ" name="update_software_configuration" guid="_yHA5AaWsEd-RtoSDv1JIuQ" variabilityType="contributes">
+            <presentation xmi:id="-Ts5nne8i-IQR3ZpMzDB0qw" href="uma://-Ts5nne8i-IQR3ZpMzDB0qw#-Ts5nne8i-IQR3ZpMzDB0qw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_z-B0kGTrEd-c05WD_Ii7zw"/>
+            <performedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_Afx3oGRtEd-c05WD_Ii7zw"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_rim1wGROEd-Xz6JKIpjvlQ"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_C7mSAGTqEd-c05WD_Ii7zw"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_JM470GToEd-c05WD_Ii7zw"/>
+            <output href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_M5iP4GTsEd-c05WD_Ii7zw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yHBgEKWsEd-RtoSDv1JIuQ" name="update_traceability_record" guid="_yHBgEKWsEd-RtoSDv1JIuQ" variabilityType="contributes">
+            <presentation xmi:id="-HjXDtdgUa8eW_kFp_VCesQ" href="uma://-HjXDtdgUa8eW_kFp_VCesQ#-HjXDtdgUa8eW_kFp_VCesQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_cuz78GTrEd-c05WD_Ii7zw"/>
+            <performedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_kqbdAGROEd-Xz6JKIpjvlQ"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_C7mSAGTqEd-c05WD_Ii7zw"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_JM470GToEd-c05WD_Ii7zw"/>
+            <output href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_JM470GToEd-c05WD_Ii7zw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yHCHIKWsEd-RtoSDv1JIuQ" name="validate_design" guid="_yHCHIKWsEd-RtoSDv1JIuQ" variabilityType="contributes">
+            <presentation xmi:id="-16DTcEsY7Tlklz5e-DAz3Q" href="uma://-16DTcEsY7Tlklz5e-DAz3Q#-16DTcEsY7Tlklz5e-DAz3Q"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_8I_AoGTnEd-c05WD_Ii7zw"/>
+            <performedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_5l9gIGRsEd-c05WD_Ii7zw"/>
+            <performedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_kqbdAGROEd-Xz6JKIpjvlQ"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_OoDMsGTXEd-c05WD_Ii7zw"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_rim1wGROEd-Xz6JKIpjvlQ"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_JM470GToEd-c05WD_Ii7zw"/>
+            <output href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_bYo6kGToEd-c05WD_Ii7zw"/>
+            <output href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_UBEQEGToEd-c05WD_Ii7zw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yHCuMKWsEd-RtoSDv1JIuQ" name="validate_tests" guid="_yHCuMKWsEd-RtoSDv1JIuQ" variabilityType="contributes">
+            <presentation xmi:id="-2WYHNwOUz2kpJNFdxKnEdw" href="uma://-2WYHNwOUz2kpJNFdxKnEdw#-2WYHNwOUz2kpJNFdxKnEdw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_98Hq0GTqEd-c05WD_Ii7zw"/>
+            <performedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_5l9gIGRsEd-c05WD_Ii7zw"/>
+            <performedBy href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_kqbdAGROEd-Xz6JKIpjvlQ"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_OoDMsGTXEd-c05WD_Ii7zw"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_rim1wGROEd-Xz6JKIpjvlQ"/>
+            <mandatoryInput href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_C7mSAGTqEd-c05WD_Ii7zw"/>
+            <output href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_UBEQEGToEd-c05WD_Ii7zw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_v4tmsKWyEd-RtoSDv1JIuQ" name="design_dp_intro" guid="_v4tmsKWyEd-RtoSDv1JIuQ" presentationName="Design DP introduction" briefDescription="Welcome to the ISO/IEC 29110 Basic profile Deployment Package for &quot;Software Architectural and Detailed Design&quot; !" shapeicon="guidances/supportingmaterials/resources/icon_introL.gif" nodeicon="guidances/supportingmaterials/resources/mic.gif">
+            <presentation xmi:id="-X8OxFc000VHMPE87fB1W9A" href="uma://-X8OxFc000VHMPE87fB1W9A#-X8OxFc000VHMPE87fB1W9A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_RdqHkKW0Ed-RtoSDv1JIuQ" name="software_design" guid="_RdqHkKW0Ed-RtoSDv1JIuQ" variabilityType="contributes" checklists="_GYB0wqWlEd-KHK2XNr05lQ" templates="_GYDC7aWlEd-KHK2XNr05lQ">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_rim1wGROEd-Xz6JKIpjvlQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_A6gK_OjWEeiFlvfecf-t4w" name="CapabilityPatterns" guid="_A6gK_OjWEeiFlvfecf-t4w"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_A6gK_ejWEeiFlvfecf-t4w" name="DeliveryProcesses" guid="_A6gK_ejWEeiFlvfecf-t4w"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_A6gK_ujWEeiFlvfecf-t4w" name="ProcessContributions" guid="_A6gK_ujWEeiFlvfecf-t4w"/>
+    <bases href="uma://_W4HjsGROEd-Xz6JKIpjvlQ#_W4HjsGROEd-Xz6JKIpjvlQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

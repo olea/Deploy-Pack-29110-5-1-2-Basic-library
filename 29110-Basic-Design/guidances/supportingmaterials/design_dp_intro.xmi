@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X8OxFc000VHMPE87fB1W9A" name="new_supporting_material,_v4tmsKWyEd-RtoSDv1JIuQ" guid="-X8OxFc000VHMPE87fB1W9A" changeDate="2010-08-12T04:14:41.000+0200">
+  <mainDescription>&lt;p>
+    This is an implementation of the&amp;nbsp;&lt;a class=&quot;elementLinkWithUserText&quot;
+    href=&quot;./../../../29110-Basic-Root/guidances/supportingmaterials/references_5D72C3A4.html&quot;
+    guid=&quot;_1ftBMKWuEd-RtoSDv1JIuQ&quot;>ISO/IEC 29110&lt;/a> Basic Profile Deployment Package (DP) for &quot;Software Architectural and
+    Detailed Design&quot;. It is basically an experiment to try the Eclipse Process Framework (EPF) as a means to deploy the
+    29110&amp;nbsp;DPs in web format.
+&lt;/p>
+&lt;p>
+    Starting with this version of the EPF plugin for the Design DP, all the 29110 material that is common to all DPs is
+    captured in a &quot;root&quot; plugin, and the individual DPs only contribute small additions. In the case of the Design DP,
+    theses additions are:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        definitions specific to the Design DP in the glossary;
+    &lt;/li>
+    &lt;li>
+        the Software Design template;
+    &lt;/li>
+    &lt;li>
+        the Software Design checklist;
+    &lt;/li>
+    &lt;li>
+        the detailed steps in all tasks related to Software Archietcural and Detailed Design;
+    &lt;/li>
+    &lt;li>
+        the references in the Design DP.
+    &lt;/li>
+&lt;/ul>
+&lt;p>
+    This version (0.4) of the &quot;Software Architectural and Detailed Design&quot; Deployment Package revised and converted to the
+    Eclipse Process Framework (EPF)&amp;nbsp;format by:
+&lt;/p>
+&lt;p>
+    Roger Champagne, Eng., Ph. D.&lt;br />
+    Associate Professor, Department of Software and IT Engineering&lt;br />
+    École de technologie supérieure (ÉTS), Montréal, Canada&lt;br />
+    Web: &lt;a href=&quot;http://profs.logti.etsmtl.ca/rchampagne/accueil/en/index.shtml&quot; target=&quot;_blank&quot;>&lt;u>&lt;font
+    color=&quot;#0066cc&quot;>http://profs.logti.etsmtl.ca/rchampagne/accueil/en/index.shtml&lt;/font>&lt;/u>&lt;/a>&lt;br />
+    E-mail: &lt;a href=&quot;mailto:roger.champagne@etsmtl.ca&quot; target=&quot;_blank&quot;>roger.champagne@etsmtl.ca&lt;/a>
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

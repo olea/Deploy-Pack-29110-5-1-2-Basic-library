@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0xZbw2hmPTOTZwBujyQVHg" name="new_supporting_material,_tP_osJkUEd-a3JTyt2HX_w" guid="-0xZbw2hmPTOTZwBujyQVHg" authors="Gloria Hernandez" changeDate="2010-10-14T04:42:44.000+0200" version="V.01">
+  <mainDescription>&lt;h3>
+    General references
+&lt;/h3>
+&lt;h3 class=&quot;style4&quot;>
+    The set of documents for the Basic Profile:
+&lt;/h3>
+&lt;ul>
+    &lt;li>
+        &lt;p style=&quot;WIDTH: 660px&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'&quot;>ISO/IEC TR 29110-1 &lt;span>Software
+            Engineering&amp;nbsp;— Lifecycle Profiles for Very Small Entities (VSEs) - Part 1: Overview &lt;span
+            class=&quot;style2&quot;>&lt;/span>&lt;/span>&lt;/span>&lt;span>&lt;span class=&quot;style2&quot;>&lt;span class=&quot;style3&quot; lang=&quot;EN-GB&quot;
+            style=&quot;FONT-FAMILY: 'Arial','sans-serif'&quot;>&lt;strong>*&lt;/strong>&lt;/span>&lt;/span>&lt;/span>
+        &lt;/p>
+    &lt;/li>
+    &lt;li>
+        &lt;p style=&quot;WIDTH: 751px&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'&quot;>ISO/IEC T29110-2 &lt;span>Software
+            Engineering&amp;nbsp;— Lifecycle Profiles for Very Small Entities (VSEs) - Part 2: Framework and
+            Taxonomy&lt;/span>&lt;/span>
+        &lt;/p>
+    &lt;/li>
+    &lt;li>
+        &lt;p style=&quot;WIDTH: 725px&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'&quot;>ISO/IEC TR 29110-3 &lt;span>Software
+            Engineering&amp;nbsp;— Lifecycle Profiles for Very Small Entities (VSEs) - Part 3: Assessment Guide&lt;/span>&lt;/span>
+            &lt;span>&lt;span class=&quot;style2&quot;>&lt;span class=&quot;style3&quot; lang=&quot;EN-GB&quot;
+            style=&quot;FONT-FAMILY: 'Arial','sans-serif'&quot;>&lt;strong>*&lt;/strong>&lt;/span>&lt;/span>&lt;/span>
+        &lt;/p>
+    &lt;/li>
+    &lt;li>
+        &lt;p style=&quot;WIDTH: 916px&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'&quot;>ISO/IEC&amp;nbsp; 29110-4-1
+            &lt;span>Software Engineering&amp;nbsp;— Lifecycle Profiles for Very Small Entities (VSEs) - Part 4-1: Profile
+            specifications: Generic profile group&lt;/span>&lt;/span>
+        &lt;/p>
+    &lt;/li>
+    &lt;li>
+        &lt;p style=&quot;WIDTH: 930px&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'&quot;>ISO/IEC TR 29110-5-1-2
+            &lt;span>Software Engineering&amp;nbsp;— Lifecycle Profiles for Very Small Entities (VSEs) - Part 5: Management and
+            Engineering Guide - Basic Profile&lt;/span>&lt;/span> &lt;span>&lt;span class=&quot;style2&quot;>&lt;span class=&quot;style3&quot; lang=&quot;EN-GB&quot;
+            style=&quot;FONT-FAMILY: 'Arial','sans-serif'&quot;>&lt;strong>*&lt;/strong>&lt;/span>&lt;/span>&lt;/span>
+        &lt;/p>
+    &lt;/li>
+&lt;/ul>
+&lt;p style=&quot;WIDTH: 660px&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'&quot;>&lt;span>&lt;span
+    class=&quot;style2&quot;>&amp;nbsp;&lt;/span>&lt;/span>&lt;/span>&lt;span>&lt;span class=&quot;style2&quot;>&lt;span class=&quot;style3&quot; lang=&quot;EN-GB&quot;
+    style=&quot;FONT-FAMILY: 'Arial','sans-serif'&quot;>&lt;strong>*&lt;/strong>&lt;/span> &lt;span
+    class=&quot;style5&quot;>&lt;strong>Note:&lt;/strong>&lt;/span>&lt;span class=&quot;style2&quot;>&lt;strong>&lt;/strong>&lt;/span>&lt;/span>&lt;/span>The Technical
+    Reports (TR) are available on the ISO web site (&lt;span class=&quot;style1&quot;>XXXX&lt;/span>) at no cost.
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

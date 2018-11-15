@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PM9ZckjvvHXY2Ttnt4c9LQ" name="new_artifact,_JWaA8MwyEd-Va56hoidFMA" guid="-PM9ZckjvvHXY2Ttnt4c9LQ" authors="Gloria Hernandez" changeDate="2010-09-30T03:30:21.000+0200" version="V.01">
+  <mainDescription>&lt;p>
+    It may include &lt;span lang=&quot;EN-GB&quot;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+    verification, validation and reviews with Customer and Work Team, to assure the quality of work products. Tasks may be
+    represented as a Work Breakdown Structure (WBS).&lt;/span>
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hUNNCqrVunU-aMg1t9zs3w" name="PM 2.2 Analyse and evaluate the Change Request,_Ae_UQMgUEd-uaoHezqavZA" guid="-hUNNCqrVunU-aMg1t9zs3w" authors="Gloria Hernandez" changeDate="2010-09-24T06:43:38.000+0200" version="V.01">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+    &lt;span lang=&quot;EN-GB&quot;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN-GB; mso-fareast-font-family: 'MS Mincho'; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+    &amp;nbsp;&lt;/span>
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>The &lt;i
+    style=&quot;mso-bidi-font-style: normal&quot;>Change Request&lt;/i> can be initiated externally by the Customer or internally by the
+    Work Team. Update the &lt;i style=&quot;mso-bidi-font-style: normal&quot;>Project Plan&lt;/i>, if the accepted change does not affect
+    agreements with Customer.&lt;/span>
+&lt;/p>
+&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 12pt&quot;>
+    &lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN-GB; mso-fareast-font-family: 'MS Mincho'; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+    Change Request&lt;/span>&lt;/i>&lt;span lang=&quot;EN-GB&quot;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-ansi-language: EN-GB; mso-fareast-font-family: 'MS Mincho'; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+    , which affects those agreements, needs to be negotiated by both parties (see PM.2.4).&lt;/span>
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

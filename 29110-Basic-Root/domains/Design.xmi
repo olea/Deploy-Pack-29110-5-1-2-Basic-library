@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OjQYVBhqYq6ZCwIPfySLAw" name="new_domain,_RmXqoJiuEd-HULhBcD6G3g" guid="-OjQYVBhqYq6ZCwIPfySLAw">
+  <mainDescription>&lt;p>
+    The Software Architectural and Detailed Design activity transforms the software requirements to the system software
+    architecture and software detailed design. The activity provides:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Work Team review of the Project Plan to determine task assignment
+    &lt;/li>
+    &lt;li>
+        Design software architecture, software components and associated interfaces
+    &lt;/li>
+    &lt;li>
+        Detailed design of the software components and interfaces
+    &lt;/li>
+    &lt;li>
+        Work Team review of the Requirements Specification
+    &lt;/li>
+    &lt;li>
+        Software design verified and defects corrected
+    &lt;/li>
+    &lt;li>
+        Verified Test Cases and Test Procedures for integration testing
+    &lt;/li>
+    &lt;li>
+        Traceability of the software requirements to the software design, test cases, and test procedures
+    &lt;/li>
+    &lt;li>
+        Design products and documents under version control
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

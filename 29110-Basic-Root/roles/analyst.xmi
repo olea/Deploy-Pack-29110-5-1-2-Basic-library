@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fekZ9Yxaum40OCygutflBw" name="new_role,_5l9gIGRsEd-c05WD_Ii7zw" guid="-fekZ9Yxaum40OCygutflBw">
+  <skills>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Knowledge and experience eliciting, specifying and analyzing the requirements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Knowledge in designing user interfaces and ergonomic criteria.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Knowledge of the revision techniques.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Knowledge of the editing techniques.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Experience on the software development and maintenance.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+</org.eclipse.epf.uma:RoleDescription>

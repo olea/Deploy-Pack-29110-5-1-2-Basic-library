@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UBPjdssNqaQpAlRIu0V90A" name="new_term_definition,_suCKIJkfEd-a3JTyt2HX_w" guid="-UBPjdssNqaQpAlRIu0V90A" changeDate="2010-07-27T03:39:15.000+0200">
+  <mainDescription>The set of computers programs, procedures, and possibly associated documentation and data. [&lt;a
+class=&quot;elementLinkWithUserText&quot; href=&quot;./../../../29110_Basic/guidances/supportingmaterials/references_81FBB521.html&quot;
+guid=&quot;_CsldwKWlEd-KHK2XNr05lQ&quot;>ISO/IEC 12207&lt;/a>]</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

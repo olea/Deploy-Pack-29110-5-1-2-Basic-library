@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RLrmGuOsA2tDbq_Xk3PidA" name="assign_tasks,_iM5ukGTmEd-c05WD_Ii7zw" guid="-RLrmGuOsA2tDbq_Xk3PidA">
+  <sections xmi:id="_yG_D06WsEd-RtoSDv1JIuQ" name="Obtain requirement specifications from repository" guid="_yG_D06WsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yG_D1KWsEd-RtoSDv1JIuQ" name="Obtain Test Cases and Test Procedures from repository" guid="_yG_D1KWsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yG_D0aWsEd-RtoSDv1JIuQ" name="Obtain Traceability Record from repository" guid="_yG_D0aWsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yG_D0qWsEd-RtoSDv1JIuQ" name="Use Requirement Specifications, Test Cases and Traceability Record to assign tasks" guid="_yG_D0qWsEd-RtoSDv1JIuQ"/>
+</org.eclipse.epf.uma:TaskDescription>

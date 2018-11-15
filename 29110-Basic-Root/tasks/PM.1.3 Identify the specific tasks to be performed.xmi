@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-guFKYBcbq2epPE--7YuB2A" name="PM.1.3 Identify the specific tasks to be performed,_tVk_8Mf-Ed-uaoHezqavZA" guid="-guFKYBcbq2epPE--7YuB2A" authors="Gloria Hernandez" changeDate="2010-09-24T06:43:38.000+0200" version="V.01">
+  <mainDescription>&lt;ul>
+    &lt;li>
+        &lt;span lang=&quot;EN-GB&quot;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+        Include tasks in the SI process along with verification, validation and reviews with Customer and Work Team tasks
+        to assure the quality of work products.&lt;/span>
+    &lt;/li>
+    &lt;li>
+        &lt;span lang=&quot;EN-GB&quot;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+        Identify the tasks to perform the &lt;i>Delivery Instructions.&lt;/i> Document the &lt;i>Tasks.&lt;/i>&lt;/span>
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

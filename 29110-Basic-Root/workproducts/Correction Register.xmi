@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-l3af1BaKlLpO6h3eBUmAwg" name="Correction Register,_oml98MgiEd-_5sDuB6Asjg" guid="-l3af1BaKlLpO6h3eBUmAwg" authors="Gloria Hernandez" changeDate="2010-09-24T06:52:42.000+0200" version="V.01">
+  <mainDescription>&lt;P class=MsoNormal style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>It may have the following characteristics:&lt;/SPAN>&lt;/P>
+&lt;UL>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Identifies the initial problem&lt;/SPAN>&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Defines a solution &lt;/SPAN>&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Identifies &lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-ansi-language: EN-GB&quot;>corrective actions taken&lt;/SPAN>&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-GB style=&quot;mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Identifies the ownership for completion of defined actions&lt;/SPAN>&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Identifies the open date and target closure date&lt;/SPAN>&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Contains a status indicator&lt;/SPAN>&lt;/DIV>&lt;/LI>
+&lt;LI>
+&lt;DIV class=MsoNormal style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&lt;/SPAN>&lt;SPAN lang=EN-GB style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Indicates follow up actions&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/DIV>&lt;/LI>&lt;/UL>&lt;BR></mainDescription>
+  <keyConsiderations>&lt;p>
+    &lt;br />
+    &amp;nbsp;
+&lt;/p></keyConsiderations>
+  <purpose>&lt;p>
+    &lt;span lang=&quot;EN-GB&quot;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+    Identifies activities established to correct a deviation or problem concerning the accomplishment of a plan.&lt;/span>
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

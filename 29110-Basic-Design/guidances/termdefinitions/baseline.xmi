@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3_8edjqGeGvOMyqJ-ftjcA" name="new_term_definition,_nC-BkJkbEd-a3JTyt2HX_w" guid="-3_8edjqGeGvOMyqJ-ftjcA" changeDate="2010-07-27T03:10:25.000+0200">
+  <mainDescription>A specification or product that has been formally reviewed and agreed upon, that thereafter serves as the basis for further
+development, and that can be changed only through formal change control procedures. [&lt;a class=&quot;elementLinkWithUserText&quot;
+href=&quot;./../../../29110_Basic/guidances/supportingmaterials/references_81FBB521.html&quot; guid=&quot;_CsldwKWlEd-KHK2XNr05lQ&quot;>ISO/IEC
+12207&lt;/a>]</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

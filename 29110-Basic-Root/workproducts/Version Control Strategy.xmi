@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VLXFcAJ2ma3JSFhFD8CDLQ" name="new_artifact,_m6vzIMwzEd-Va56hoidFMA" guid="-VLXFcAJ2ma3JSFhFD8CDLQ" authors="Gloria Hernandez" changeDate="2010-09-30T03:40:22.000+0200" version="V.01">
+  <purpose>&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Product repository tools or
+            mechanism identified&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Location and access mechanisms
+            for the repository specified&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Version identification and
+            control defined&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Backup and recovery mechanisms
+            defined&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt 53.4pt; TEXT-INDENT: -0.25in; LINE-HEIGHT: normal; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 21.25pt 35.45pt list 53.4pt left 70.9pt 85.05pt&quot;>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-ansi-language: EN-GB; mso-bidi-font-family: Arial&quot;>Storage, handling and delivery
+            (including archival and retrieval) mechanisms specified&lt;/span>
+        &lt;/div>
+    &lt;/li>
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

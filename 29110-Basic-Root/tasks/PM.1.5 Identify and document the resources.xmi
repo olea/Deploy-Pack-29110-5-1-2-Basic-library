@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SOswlj5W8dibzKtnYgzUpA" name="PM.1.5 Identify and document the resources,_wv_4YMf-Ed-uaoHezqavZA" guid="-SOswlj5W8dibzKtnYgzUpA" authors="Gloria Hernandez" changeDate="2010-09-24T06:43:38.000+0200" version="V.01">
+  <mainDescription>&lt;p>
+    &amp;nbsp;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;span lang=&quot;EN-GB&quot;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+Include in the schedule the dates when resources and training will be needed.&lt;/span></keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

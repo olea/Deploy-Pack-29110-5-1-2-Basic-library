@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kYoZJ8bSZ3WFWM2pCH2sRw" name="document_software_design,_xi154GROEd-Xz6JKIpjvlQ" guid="-kYoZJ8bSZ3WFWM2pCH2sRw">
+  <sections xmi:id="_yG_q46WsEd-RtoSDv1JIuQ" name="Design the architecture" guid="_yG_q46WsEd-RtoSDv1JIuQ">
+    <sectionDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot; lang=&quot;EN-GB&quot;>Analyze the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../29110_Basic/workproducts/requirements_spec_F4BAAD3C.html&quot; guid=&quot;_OoDMsGTXEd-c05WD_Ii7zw&quot;>Requirements&#xD;
+    Specification&lt;/a>&amp;nbsp;to generate the architectural design, its arrangement in subsystems and software components&#xD;
+    defining the internal and external interfaces.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+            Identify design stakeholders and their concerns (e.g., what they expect to find in the Software Design).&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+            Identify the relevant architectural mechanisms that could be used to satisfy the requirements, paying special&#xD;
+            attention to the nonfunctional requirements. By architectural mechanisms we mean any pattern, heuristic,&#xD;
+            tactic, or&amp;nbsp;rule of thumb that is useful.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+            Identify at least one type of architectural view that addresses each design concern.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+            Design the software architecture by documenting relevant architectural views. This typically involves&#xD;
+            considering the various architectural mechanisms available, producing diagrams in various visual notations, and&#xD;
+            also documenting the rationale (e.g., alternatives considered, tradeoffs, assumptions, risks, results from&#xD;
+            various forms of analysis, ...) that lead to the view. The requirements (both functional and non-functional)&#xD;
+            and design concerns should all be addressed by the architecture. The architectural views should at least&#xD;
+            identify the major building blocks of the design (layers, subsystems, high-level components, ...).&lt;br />&#xD;
+            &lt;br />&#xD;
+            TIP: one way of performing this step is by recursive decomposition. You start with a set of requirements, and a&#xD;
+            single component (the whole system) that must satisfy all these requirements. You then subdivide this component&#xD;
+            in two or more components, assigning to each a subset of the requirements. You keep on decomposing in such a&#xD;
+            fashion until a satisfactory level of granularity is obtained. For functional requirements, this is relatively&#xD;
+            straightforward, because functional requirements can typically be mapped to specific portions of a system. For&#xD;
+            non-functional requirements however, this is hard, because such requirements affect the whole system (for&#xD;
+            example, it is hard to point to a portion of code that implements the &quot;maintainability&quot; or the &quot;performance&quot; in&#xD;
+            a software system.&lt;br />&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_yG_q4qWsEd-RtoSDv1JIuQ" name="Describe the user interface" guid="_yG_q4qWsEd-RtoSDv1JIuQ">
+    <sectionDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot; lang=&quot;EN-GB&quot;>Describe in detail, the appearance and&#xD;
+    the behaviour of the interface, based on the &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../29110_Basic/workproducts/requirements_spec_F4BAAD3C.html&quot; guid=&quot;_OoDMsGTXEd-c05WD_Ii7zw&quot;>Requirements&#xD;
+    Specification&lt;/a> in a way that resources for its implementation can be foreseen.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+            This point is worth considering for interactive systems where the development of the user interface is&#xD;
+            anticipated to be nontrivial.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+            If the system under consideration does not have a user interface (e.g. a web service), this step is simply&#xD;
+            ignored.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+            For a system that has a user interface which poses no specific challenges, the user interface can be considered&#xD;
+            simply as another feature of the system to be developed.&lt;br />&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_yG_q5KWsEd-RtoSDv1JIuQ" name="Provide components details" guid="_yG_q5KWsEd-RtoSDv1JIuQ">
+    <sectionDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot; lang=&quot;EN-GB&quot;>&lt;span&#xD;
+    style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot; lang=&quot;EN-GB&quot;>Provide the detail of software components&#xD;
+    and their interfaces to allow the construction in an evident way.&lt;/span>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+            For each high-level component of the architecture, provide the component details in such a way that the design&#xD;
+            is clearly understood by the people who will implement the solution (e.g., the programmers). As for the&#xD;
+            architectural design, multiple views should be used to ensure that the various aspects of the design&#xD;
+            (structure, behaviour, allowable interactions) are clearly expressed.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div style=&quot;MARGIN: 0cm 0cm 12pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+            Verify that the detailed design of each architectural element is performed in accordance with the constraints&#xD;
+            imposed by the architecture.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_yG_q4aWsEd-RtoSDv1JIuQ" name="Generate or update the Traceability Record" guid="_yG_q4aWsEd-RtoSDv1JIuQ">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The traceability record should have been produced during the requirement analysis activities.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Verify that every design element can be traced to a requirement.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Verify that every requirement is represented in design.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kX29E0DXIGMdD3MuJmGXbA" name="new_term_definition,_DcAo0JkeEd-a3JTyt2HX_w" guid="-kX29E0DXIGMdD3MuJmGXbA" changeDate="2010-07-27T03:27:43.000+0200">
+  <mainDescription>An area of interest with respect to a software design. [&lt;a class=&quot;elementLinkWithUserText&quot;
+href=&quot;./../../../29110_Basic/guidances/supportingmaterials/references_81FBB521.html&quot; guid=&quot;_CsldwKWlEd-KHK2XNr05lQ&quot;>IEEE
+1016&lt;/a>]</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

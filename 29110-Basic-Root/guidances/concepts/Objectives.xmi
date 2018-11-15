@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dg1tBOOUyt3n1oUMd1DrBA" name="Objectives,_AF9rEMgmEd-_5sDuB6Asjg" guid="-dg1tBOOUyt3n1oUMd1DrBA" changeDate="2010-09-30T04:45:21.000+0200">
+  <mainDescription>&lt;span lang=&quot;EN-GB&quot;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+specific goals to ensure the accomplishment of the process purpose. The objectives are identified by the abbreviation of
+the process name, followed by the letter “O” and a consecutive number, for example PM.O1, SI.O2, etc. Each objective is
+followed by the square box which includes a list of the chosen processes for the basic profile from ISO/IEC 12207:2008 and
+its outcomes related to the objective&lt;/span></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

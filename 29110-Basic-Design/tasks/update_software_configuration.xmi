@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ts5nne8i-IQR3ZpMzDB0qw" name="update_software_configuration,_z-B0kGTrEd-c05WD_Ii7zw" guid="-Ts5nne8i-IQR3ZpMzDB0qw">
+  <sections xmi:id="_yHA5AqWsEd-RtoSDv1JIuQ" name="Store Software Design and Traceability Record in the configuration management tool as described in the project software configuration policy" guid="_yHA5AqWsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yHA5A6WsEd-RtoSDv1JIuQ" name="Store Test Cases and Test Procedures into the project Repository" guid="_yHA5A6WsEd-RtoSDv1JIuQ"/>
+</org.eclipse.epf.uma:TaskDescription>

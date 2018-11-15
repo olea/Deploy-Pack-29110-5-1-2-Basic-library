@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9NBZ7Izaj6a5hCKFfv1g6Q" name="PM.2.4 Conduct revision meetings with the Customer,_DrRDAMgUEd-uaoHezqavZA" guid="-9NBZ7Izaj6a5hCKFfv1g6Q" authors="Gloria Hernandez" changeDate="2010-09-24T06:43:38.000+0200" version="V.01">
+  <keyConsiderations>Change Request initiated by Customer or initiated by Work Team, which affects the Customer, needs to be negotiated to reach
+acceptance of both parties.&lt;br />
+If necessary, update the Project Plan according to new agreement with Customer.&lt;br /></keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7iKvG9SKSzaf94YvgKNIew" name="designer,_kqbdAGROEd-Xz6JKIpjvlQ" guid="-7iKvG9SKSzaf94YvgKNIew">
+  <skills>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Knowledge and experience in the software components and architecture design.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Knowledge of the revision techniques.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Knowledge and experience in the planning and performance of integration tests.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Knowledge of the editing techniques.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Experience on the software development and maintenance.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fYjWANcBbHkFE6mLRUxAtA" name="new_term_definition,_ND1CMJkfEd-a3JTyt2HX_w" guid="-fYjWANcBbHkFE6mLRUxAtA" changeDate="2010-07-27T03:35:49.000+0200">
+  <mainDescription>1. a software requirement that describes not what the software will do but how the software will do it. Syn: design
+constraints, non-functional requirement cf. functional requirement. EXAMPLE: software performance requirements, software
+external interface requirements, software design constraints, and software quality attributes. Nonfunctional requirements
+are sometimes difficult to test, so they are usually evaluated subjectively. [&lt;a class=&quot;elementLinkWithUserText&quot;
+href=&quot;./../../../29110_Basic/guidances/supportingmaterials/references_81FBB521.html&quot; guid=&quot;_CsldwKWlEd-KHK2XNr05lQ&quot;>ISO/IEC
+24765&lt;/a>]</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

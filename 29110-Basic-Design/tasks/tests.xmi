@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PpedCiIEPtjzQF_RnZCODA" name="tests,_x0F-gGTpEd-c05WD_Ii7zw" guid="-PpedCiIEPtjzQF_RnZCODA">
+  <sections xmi:id="_yHAR8aWsEd-RtoSDv1JIuQ" name="Create Test Cases and Procedures document" guid="_yHAR8aWsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yHAR8qWsEd-RtoSDv1JIuQ" name="If the customer provides test data, incorporate it in the document" guid="_yHAR8qWsEd-RtoSDv1JIuQ">
+    <sectionDescription>&lt;p>&#xD;
+    If the test data is not easily expressed in a document (for instance, a large database), it should at least be&#xD;
+    identified and referred to in the Test Cases and Test Procedures document.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

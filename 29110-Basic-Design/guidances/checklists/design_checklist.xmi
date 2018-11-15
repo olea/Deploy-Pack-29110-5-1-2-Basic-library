@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-S5FNB9Ox8gx3Iw64BAJ67w" name="new_checklist,_U6aKQJjaEd-Q1vzFvVr-PQ" guid="-S5FNB9Ox8gx3Iw64BAJ67w" changeDate="2010-07-26T09:27:23.000+0200">
+  <mainDescription>&lt;p>
+    This checklist is insipred by &lt;a class=&quot;elementLinkWithUserText&quot;
+    href=&quot;./../../../29110-Basic-Design/guidances/supportingmaterials/references_4189DD1C.html&quot;
+    guid=&quot;_GYB0wKWlEd-KHK2XNr05lQ&quot;>OpenUP&lt;/a> checklists for the &lt;strong>Architecture Notebook&lt;/strong> and
+    &lt;strong>Design&lt;/strong> work products, and is split in three sections:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;strong>SADD&lt;/strong>: verification elements&amp;nbsp;common to both the Software Architecture and the Detailed Design
+        portions of the Software Design
+    &lt;/li>
+    &lt;li>
+        &lt;strong>SA&lt;/strong>: verification elements&amp;nbsp;specific to the Software Architecture portion of the Software
+        Design
+    &lt;/li>
+    &lt;li>
+        &lt;strong>DD&lt;/strong>: verification elements&amp;nbsp;specific to the Detailed Design portion of the Software Design
+    &lt;/li>
+&lt;/ul>
+&lt;br /></mainDescription>
+  <sections xmi:id="_GYCb2KWlEd-KHK2XNr05lQ" name="SADD - The design is understandable." guid="_GYCb2KWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC6KWlEd-KHK2XNr05lQ" name="SADD - All diagrams have an appropriate key." guid="_GYDC6KWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb26WlEd-KHK2XNr05lQ" name="SADD - All views are supported with text." guid="_GYCb26WlEd-KHK2XNr05lQ">
+    <sectionDescription>All views are supported with text, minimally describing the rationale behind the view, assumptions, responsibilities of&#xD;
+elements in the view, interfaces to the elements in the view, pointers to other relevant views.</sectionDescription>
+  </sections>
+  <sections xmi:id="_GYDC4KWlEd-KHK2XNr05lQ" name="SADD - The design is maintainable" guid="_GYDC4KWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC5qWlEd-KHK2XNr05lQ" name="SADD - Each view helps the designer reason about the design, or communicate key design decisions to the team" guid="_GYDC5qWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb2qWlEd-KHK2XNr05lQ" name="SADD - The relationships between views are clear when several views are used to describe structure and behaviour" guid="_GYCb2qWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb0aWlEd-KHK2XNr05lQ" name="SADD - It is easy to navigate between related views" guid="_GYCb0aWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb1qWlEd-KHK2XNr05lQ" name="SADD - Each view focuses on a relevant perspective" guid="_GYCb1qWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb2aWlEd-KHK2XNr05lQ" name="SADD - Each view is complete and minimal. It shows everything relevant to that view and nothing more" guid="_GYCb2aWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb4KWlEd-KHK2XNr05lQ" name="SADD - The views are tidy and easy to interpret, with a minimum of clutter" guid="_GYCb4KWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC6aWlEd-KHK2XNr05lQ" name="SADD - The Software Design document has been verified and corrected" guid="_GYDC6aWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb06WlEd-KHK2XNr05lQ" name="SADD - The Software Design has been approved and signed by the customer" guid="_GYCb06WlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb36WlEd-KHK2XNr05lQ" name="SADD - The Software Design, Traceability Record and Test Cases and Test Procedures have been baselined and stored in the project repository" guid="_GYCb36WlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb3KWlEd-KHK2XNr05lQ" name=" " guid="_GYCb3KWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC5KWlEd-KHK2XNr05lQ" name="SA - The architectural goals, constraints and requirements are adequately described and handled" guid="_GYDC5KWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb0KWlEd-KHK2XNr05lQ" name="SA - Necessary architectural mechanisms are identified, described and justified" guid="_GYCb0KWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb1aWlEd-KHK2XNr05lQ" name="SA - All architecture elements are traceable to requirements" guid="_GYCb1aWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC46WlEd-KHK2XNr05lQ" name="SA - The system partitions are adequately defined" guid="_GYDC46WlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb4aWlEd-KHK2XNr05lQ" name="SA - The key architectural elements are adequately defined" guid="_GYCb4aWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb0qWlEd-KHK2XNr05lQ" name="SA - The interfaces between architectural elements and to external systems are adequately represented" guid="_GYCb0qWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC7KWlEd-KHK2XNr05lQ" name="SA - The architecture is built to evolve" guid="_GYDC7KWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC56WlEd-KHK2XNr05lQ" name="SA - The architecture can be delivered by the team" guid="_GYDC56WlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb1KWlEd-KHK2XNr05lQ" name="SA - The software elements are adequately mapped to hardware elements" guid="_GYCb1KWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC66WlEd-KHK2XNr05lQ" name=" " guid="_GYDC66WlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC6qWlEd-KHK2XNr05lQ" name="DD - The detailed design, derived from the software architecture, is complete and correct" guid="_GYDC6qWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC4qWlEd-KHK2XNr05lQ" name="DD - All detailed design elements are traceable to architectural elements" guid="_GYDC4qWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb3qWlEd-KHK2XNr05lQ" name="DD - The detailed design is consistent with the architecture and requirements" guid="_GYCb3qWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb16WlEd-KHK2XNr05lQ" name="DD - The detailed design reflects the architectural objectives of the system" guid="_GYCb16WlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYCb3aWlEd-KHK2XNr05lQ" name="DD - The detailed design elements are modular (high cohesion, low coupling, appropriate use of abstract interfaces)" guid="_GYCb3aWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC5aWlEd-KHK2XNr05lQ" name="DD - The system can be implemented from the information in the detailed design" guid="_GYDC5aWlEd-KHK2XNr05lQ"/>
+  <sections xmi:id="_GYDC4aWlEd-KHK2XNr05lQ" name="DD - The design provides enough information for developer testing" guid="_GYDC4aWlEd-KHK2XNr05lQ"/>
+</org.eclipse.epf.uma:ContentDescription>

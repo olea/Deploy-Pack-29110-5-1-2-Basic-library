@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-16DTcEsY7Tlklz5e-DAz3Q" name="validate_design,_8I_AoGTnEd-c05WD_Ii7zw" guid="-16DTcEsY7Tlklz5e-DAz3Q">
+  <sections xmi:id="_yHCHI6WsEd-RtoSDv1JIuQ" name="Verify correctness of Software Design documentation, its feasibility and consistency with their Requirement Specification" guid="_yHCHI6WsEd-RtoSDv1JIuQ">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Verify that the design: &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                addresses stakeholders’ design concerns;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                is consistent with stated requirements;&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                implements intended design decisions.&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_yHCHIqWsEd-RtoSDv1JIuQ" name="Verify that the Traceability Record contains the relationships between requirements and the Software Design elements" guid="_yHCHIqWsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yHCHIaWsEd-RtoSDv1JIuQ" name="The results found are documented in a Verification Results and corrections are made until the document is approved by AN" guid="_yHCHIaWsEd-RtoSDv1JIuQ"/>
+  <sections xmi:id="_yHCHJKWsEd-RtoSDv1JIuQ" name=" If significant changes were needed, initiate a Change Request" guid="_yHCHJKWsEd-RtoSDv1JIuQ"/>
+</org.eclipse.epf.uma:TaskDescription>

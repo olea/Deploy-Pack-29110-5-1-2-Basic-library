@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WW1ZGmbf37ka-2bUUCX5sA" name="document_software_design,_xi154GROEd-Xz6JKIpjvlQ" guid="-WW1ZGmbf37ka-2bUUCX5sA">
+  <mainDescription>&lt;p>
+    Analyze the Requirements Specification to generate the architectural design, its arrangement in subsystems and software
+    components defining the internal and external interfaces. Describe in detail, the appearance and the behaviour of the
+    interface, based on the Requirements Specification in a way that resources for its implementation can be foreseen.
+    Provide the detail of software components and their interfaces to allow the construction in an evident way. Generate or
+    update the Traceability Record.&lt;br />
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

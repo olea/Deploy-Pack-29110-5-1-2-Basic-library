@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_qzo0skMQYNUyddUl30fcg" name="project_plan,__WLK0GTmEd-c05WD_Ii7zw" guid="-_qzo0skMQYNUyddUl30fcg" authors="Gloria Hernandez" changeDate="2010-09-24T07:38:38.000+0200" version="V.01">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+align=&quot;left&quot;>
+    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>It includes the following elements
+    which may have the characteristics as follows:&lt;/span>
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Product
+            Description&lt;/span>&lt;/i>
+        &lt;/div>
+        &lt;ul>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;FONT-FAMILY: 'Courier New'; mso-ansi-language: EN-GB; mso-fareast-font-family: 'Courier New'; mso-bidi-font-style: italic&quot;>
+                    &lt;span style=&quot;mso-list: Ignore&quot;>&lt;span
+                    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&lt;/span>&lt;/span>&lt;/span>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB; mso-bidi-font-style: italic&quot;>Purpose&lt;/span>
+                &lt;/div>
+            &lt;/li>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB; mso-bidi-font-style: italic&quot;>General
+                    Customer requirements&lt;/span>
+                &lt;/div>
+            &lt;/li>
+        &lt;/ul>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Scope&lt;/span>&lt;/i> &lt;span
+            lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB; mso-bidi-font-style: italic&quot;>description of what
+            is included and what is not&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Objectives&lt;/span>&lt;/i> &lt;span
+            lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB; mso-bidi-font-style: italic&quot;>of the
+            project&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i>&lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Deliverables&lt;/span>&lt;/i>
+            &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB; mso-bidi-font-style: italic&quot;>-
+            list of products to be delivered to Customer&lt;/span>&lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>&amp;nbsp;&lt;/span>&lt;/i>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Tasks, including&lt;/span>&lt;/i> &lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>verification, validation and reviews with
+            Customer and Work Team, to assure the quality of work products. Tasks may be represented as a Work Breakdown
+            Structure (WBS).&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Relationship and Dependence of the
+            Tasks&lt;/span>&lt;/i>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Estimated Duration&lt;/span>&lt;/i> &lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>of tasks&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Resources&lt;/span>&lt;/i> &lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>(humans, materials, standards, equipment and
+            tools) including the required training, and the schedule when the resources are needed.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Composition of Work Team&lt;/span>&lt;/i>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Schedule of the Project Tasks,&lt;/span>&lt;/i> &lt;span
+            lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>the expected start and completion
+            date, for each task.&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Estimated Effort and Cost&lt;/span>&lt;/i>&lt;span
+            lang=&quot;EN-GB&quot;
+            style=&quot;FONT-FAMILY: 'Times New Roman','serif'; mso-ansi-language: EN-GB; mso-fareast-font-family: 'Times New Roman'&quot;>
+            &lt;span style=&quot;mso-list: Ignore&quot;>&lt;span style=&quot;FONT: 7pt 'Times New Roman'&quot;>&lt;/span>&lt;/span>&lt;/span>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Identification of Project Risks&lt;/span>&lt;/i>
+        &lt;/div>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Version Control Strategy&lt;/span>&lt;/i>
+        &lt;/div>
+        &lt;ul>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Product repository
+                    tools or mechanism identified&lt;/span>
+                &lt;/div>
+            &lt;/li>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Location and access
+                    mechanisms for the repository specified&lt;/span>
+                &lt;/div>
+            &lt;/li>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Version identification
+                    and control defined&lt;/span>
+                &lt;/div>
+            &lt;/li>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Backup and recovery
+                    mechanisms defined&lt;/span>
+                &lt;/div>
+            &lt;/li>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Storage, handling and
+                    delivery (including archival and retrieval) mechanisms specified&lt;/span>
+                &lt;/div>
+            &lt;/li>
+        &lt;/ul>
+    &lt;/li>
+    &lt;li>
+        &lt;div class=&quot;MsoNormal&quot;
+        style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=&quot;left&quot;>
+            &lt;i style=&quot;mso-bidi-font-style: normal&quot;>&lt;span lang=&quot;EN-GB&quot;
+            style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Delivery Instructions&lt;/span>&lt;/i>
+        &lt;/div>
+        &lt;ul>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Elements required for
+                    product release identified (i.e., hardware, software, documentation etc.)&lt;/span>
+                &lt;/div>
+            &lt;/li>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Delivery
+                    requirements&lt;/span>
+                &lt;/div>
+            &lt;/li>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Sequential ordering of
+                    tasks to be performed&lt;/span>
+                &lt;/div>
+            &lt;/li>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;FONT-FAMILY: 'Times New Roman','serif'; mso-ansi-language: EN-GB; mso-fareast-font-family: 'Times New Roman'&quot;>
+                    &lt;span style=&quot;mso-list: Ignore&quot;>&lt;span
+                    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&lt;/span>&lt;/span>&lt;/span>&lt;span lang=&quot;EN-GB&quot;
+                    style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Applicable releases identified&lt;/span>
+                &lt;/div>
+            &lt;/li>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Identifies all
+                    delivered software components with version information&lt;/span>
+                &lt;/div>
+            &lt;/li>
+            &lt;li>
+                &lt;div class=&quot;MsoNormal&quot;
+                style=&quot;MARGIN: 0in 0in 0pt; LINE-HEIGHT: normal; TEXT-ALIGN: left; mso-layout-grid-align: none&quot;
+                align=&quot;left&quot;>
+                    &lt;span lang=&quot;EN-GB&quot; style=&quot;mso-bidi-font-family: Arial; mso-ansi-language: EN-GB&quot;>Identifies any
+                    necessary backup and recovery procedures&lt;/span>
+                &lt;/div>
+            &lt;/li>
+        &lt;/ul>
+    &lt;/li>
+&lt;/ul></mainDescription>
+  <keyConsiderations>&lt;span lang=&quot;EN-GB&quot;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+The applicable statuses are: verified, accepted, &lt;span style=&quot;mso-bidi-font-style: italic&quot;>updated&lt;/span> and
+reviewed&lt;/span></keyConsiderations>
+  <purpose>&lt;span lang=&quot;EN-GB&quot;
+style=&quot;FONT-SIZE: 9.5pt; mso-bidi-font-family: Arial; mso-ansi-language: EN-GB; mso-fareast-language: ES-MX&quot;>Presents how
+the project processes and activities will be executed to assure the project’s successful completion, and the quality of the
+deliverable products.&lt;/span></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zmWNJplyj1gAr_iRLdrm4w" name="new_term_definition,_ZPsiIJkfEd-a3JTyt2HX_w" guid="-zmWNJplyj1gAr_iRLdrm4w" changeDate="2010-07-27T03:37:13.000+0200">
+  <mainDescription>The structure or structures of a system, which consist of elements, their externally visible properties, and the
+relationships among them. [&lt;a class=&quot;elementLinkWithUserText&quot;
+href=&quot;./../../../29110_Basic/guidances/supportingmaterials/references_81FBB521.html&quot;
+guid=&quot;_CsldwKWlEd-KHK2XNr05lQ&quot;>CLEMENTS 03, p.xxv&lt;/a>]</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

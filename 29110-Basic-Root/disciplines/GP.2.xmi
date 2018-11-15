@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gHDaH81FF5IPE8pi6-ltJw" name="new_discipline,_6plx0GTkEd-c05WD_Ii7zw" guid="-gHDaH81FF5IPE8pi6-ltJw" changeDate="2010-07-26T08:33:47.000+0200">
+  <mainDescription>&lt;p>
+    The Software Architectural and Detailed Design activity transforms the &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../29110_Basic/workproducts/requirements_spec_F4BAAD3C.html&quot; guid=&quot;_OoDMsGTXEd-c05WD_Ii7zw&quot;>Requirements
+    Specification&lt;/a> to the system &lt;a class=&quot;elementLink&quot;
+    href=&quot;./../../29110_Basic/workproducts/software_design_A24745A6.html&quot; guid=&quot;_rim1wGROEd-Xz6JKIpjvlQ&quot;>Software
+    Design&lt;/a>. The activity provides:
+&lt;/p>
+&lt;ul>
+    &lt;li>
+        Work Team review of the &lt;a class=&quot;elementLink&quot; href=&quot;./../../29110_Basic/workproducts/project_plan_BD4ACBC2.html&quot;
+        guid=&quot;__WLK0GTmEd-c05WD_Ii7zw&quot;>Project Plan&lt;/a> to determine task assignment
+    &lt;/li>
+    &lt;li>
+        Design software architecture, software components and associated interfaces
+    &lt;/li>
+    &lt;li>
+        Detailed design of the software components and interfaces
+    &lt;/li>
+    &lt;li>
+        Work Team review of the &lt;a class=&quot;elementLink&quot;
+        href=&quot;./../../29110_Basic/workproducts/requirements_spec_F4BAAD3C.html&quot; guid=&quot;_OoDMsGTXEd-c05WD_Ii7zw&quot;>Requirements
+        Specification&lt;/a>&amp;nbsp;
+    &lt;/li>
+    &lt;li>
+        &lt;a class=&quot;elementLink&quot; href=&quot;./../../29110_Basic/workproducts/software_design_A24745A6.html&quot;
+        guid=&quot;_rim1wGROEd-Xz6JKIpjvlQ&quot;>Software Design&lt;/a>&amp;nbsp;verified and defects corrected
+    &lt;/li>
+    &lt;li>
+        Verified &lt;a class=&quot;elementLink&quot; href=&quot;./../../29110_Basic/workproducts/test_cases_procedures_31D90F98.html&quot;
+        guid=&quot;_C7mSAGTqEd-c05WD_Ii7zw&quot;>Test Cases and Procedures&lt;/a> for integration testing
+    &lt;/li>
+    &lt;li>
+        Traceability of the software requirements to the software design, test cases, and test procedures
+    &lt;/li>
+    &lt;li>
+        Design products and documents under version control
+    &lt;/li>
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

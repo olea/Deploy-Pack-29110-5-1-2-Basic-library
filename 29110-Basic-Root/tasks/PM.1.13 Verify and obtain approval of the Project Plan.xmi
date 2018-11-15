@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VSby2KlD7tadr-Yvvsf7sg" name="PM.1.13 Verify and obtain approval of the Project Plan,_8oB2UMf-Ed-uaoHezqavZA" guid="-VSby2KlD7tadr-Yvvsf7sg" authors="Gloria Hernandez" changeDate="2010-09-24T06:43:38.000+0200" version="V.01">
+  <purpose>&lt;span lang=&quot;EN-GB&quot;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'MS Mincho'; mso-ansi-language: EN-GB; mso-fareast-language: JA; mso-bidi-language: AR-SA&quot;>
+Verify that all &lt;i>Project Plan&lt;/i> elements &lt;i>&lt;/i>are viable and consistent. The results found are documented in a
+&lt;i>Verification Results&lt;/i> &lt;span style=&quot;mso-bidi-font-style: italic&quot;>and corrections are made until the document is
+approved by PM.&lt;/span>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>
